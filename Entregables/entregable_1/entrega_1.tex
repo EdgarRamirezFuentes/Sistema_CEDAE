@@ -304,19 +304,29 @@
                     \begin{enumerate}
                         \item Cada usuario podrá iniciar y cerrar sesión en el sistema.
                         \item El usuario administrador podrá registrar otros usuarios.
+                        \item El usuario administrador podrá dar de baja a otro usuarios.
+                        \item El usuario administrador podrá modificar los datos de otros usuarios.
                         \item El usuario recepcionista podrá agendar citas para pacientes.
                         \item El paciente podrá consultar las fechas de sus citas a través de su cuenta.
                         \item El sistema permitirá al médico titular generar recetas médicas.
                         \item El médico titular podrá generar o hacer cambios al expediente clínico de pacientes.
                         \item Los médicos titulares y auxiliares podrán consultar expedientes clínicos de sus pacientes.
-                        \item El paciente podrá consultar sus expediente clínico a través de su cuenta.
+                        \item El paciente podrá consultar su expediente clínico a través de su cuenta.
                         \item El médico titular podrá habilitar los expedientes clínicos para su consulta por parte del usuario.
                         \item El usuario administrador podrá generar de reportes estadísticos.
                         \item El sistema contará con manejo de almacén de farmacia.
                         \item Los médicos podrán consultar la disponibilidad de medicamentos en farmacia.
+                        \item El encargado de farmacia podrá consultar la disponibilidad de medicamentos.
                         \item El sistema generará una advertencia para los usuarios encargados de farmacia cuando un medicamento esté pronto a caducar.
                         \item Los médicos podrían generar recetas físicas o electrónicas.
                         \item Cada consulta se llevará un registro de el personal que atendió al paciente.
+                        \item El sistema permitirá agendar citas a usuarios sin registro.
+                        \item El sistema enviará correos electrónicos de verificación, mediante tokens, para las citas.
+                        \item El usuario recepcionista podrá consultar la agenda de cada médico titular.
+                        \item El usuario recepcionista podrá ver las citas de todos los usuarios.
+                        \item El usuario recepcionista podrá realizar cobros de consultas.
+                        \item El encargado de farmacia podrá realizar cobros por medicamentos.
+                        \item El encargado de farmacia podrá modificar la existencia de medicamentos en inventario.
                     \end{enumerate}
                     \item Requerimientos no funcionales
                     \begin{enumerate}
@@ -324,6 +334,12 @@
                         \item El paciente podrá ver su expediente médico únicamente si ha pedido autorización.
                         \item Las caducidades de medicamentos serán tratadas conforme a las normas de la COFEPRIS.
                         \item El surtido de recetas por parte de la farmacia se debe apegar al Artículo 226 de la Ley General de Salud.
+                        \item Las citas solo podrán ser agendadas en el calendario en tiempos de 30 minutos durante el horario de atención.
+                        \item La duración de las citas de primera vez será de 1 hora.
+                        \item La duración de las citas  subsecuentes será de 30 minutos.
+                        \item En una cita de primera vez, el usuario no podrá escoger el médico que lo atenderá, solo el horario.
+                        \item Se debe de cumplir con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares para los datos almacenados de los usuarios.
+                        \item La clínica atenderá en un horario de Lunes a Viernes de 10:00 a 20:00 horas.
                     \end{enumerate}
             \end{itemize}
 			}
