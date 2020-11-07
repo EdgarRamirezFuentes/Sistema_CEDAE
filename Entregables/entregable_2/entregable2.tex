@@ -23,7 +23,6 @@
 	%encabezado 
 	\pagestyle{plain}
 	{
-
 		% Imágenes de la portada
 		{
 			\begin{tabular}
@@ -35,10 +34,8 @@
 				\includegraphics[width=2.5cm, height=2cm]{escom.png}
 			\end{tabular}
 		}
-
 		% Datos de la caratula
 		\begin{center}
-
 			\par\vspace{1cm} %Espacio dejado antes del encabezado
 			{
 				\Huge\textbf
@@ -47,7 +44,6 @@
 					\\[.2cm]Escuela Superior de C\'omputo
 				}
 			}
-
 			\par\vspace{0.5cm}
 			{
 				\Large\textbf
@@ -56,9 +52,7 @@
 					\\[.5cm]An\'alisis y diseño orientado a objetos
 				}
 			}
-
 			\vfill
-
 			\par\vspace{0.5cm}
 			{
 				\Large\textbf
@@ -67,9 +61,7 @@
 					CEDAE (Centro de dematológico de alta especialidad)
 				}
 			}
-
 			\vfill
-
 			\par\vspace{1cm}
 			{
 				\large\textbf
@@ -87,13 +79,10 @@
 					\\2CV9
 				} 
 			}
-
 			\par\vspace{3cm}
-
 		\end{center}
 		\clearpage
 	}
-
 	\newpage
 	\pagestyle{plain}
 	{
@@ -123,10 +112,8 @@
                         \item Casos de uso ... 8
                         \item Diagramas de casos de uso ... 9
 					\end{itemize}
-
 			\vfill
 	}
-
 	\newpage
 	\pagestyle{plain}
 	{
@@ -138,7 +125,11 @@
 						Organización del SCRUM Team
 					}
 			\end{center}
-		}
+        }
+        \par\vspace{0cm}
+		{
+			\normalsize\textbf
+			{
 				\justify
                 Después de una reunión enfocada a la selección de los roles
                 que tendrá cada integrante del equipo, se llegó a la siguiente
@@ -181,8 +172,9 @@
                             \end{itemize}
                         \end{itemize}
                 \end{itemize}
+            }
+        }
     }
-    
     \newpage
 	\pagestyle{plain}
 	{
@@ -195,7 +187,11 @@
 						Acuerdos del SCRUM Team
 					}
 			\end{center}
-		}
+        }
+        \par\vspace{0cm}
+		{
+			\normalsize\textbf
+			{
                 \justify
                 En una de las reuniones diarias del SCRUM se llegaron a
                 los siguientes acuerdos, los cuales deberán ser cumplidos de 
@@ -219,25 +215,26 @@
                         \item La duración de la reunión será dependiente del entendimiento organización, opiniones del equipo acerca del proyecto 
                     \end{itemize}
                 \end{itemize}
+            }
+        }
     }
-    
     \newpage
 	\pagestyle{plain}
 	{
 		\par\vspace{0cm}
 		{
 			\begin{center}
-
 					\Huge\textbf
 					{
 						Descripción del proyecto
 					}
 			\end{center}
-		}
+        }
+        \par\vspace{0cm}
+		{
+			\normalsize\textbf
+			{
                 \justify
-                Nota: La descripción actual del proyecto es con base en la información que hasta el 
-                momento se tiene acerca del proyecto.
-                \\\\\\
                 Se desarrollará un sistema web el cual apoyará a la clínica CEDAE a la gestión de doctores titulares,
                 doctores auxiliares, trabajadores de la clínica, pacientes, stock de medicina, citas médicas, expedientes médicos,
                 recetas médicas, entre otras futuras funcionalidades.
@@ -255,84 +252,93 @@
                 \\\\
                 Por parte del sector administrativo de la clínica permitirá generar citas, generar reportes estadísticos que el cliente requiera, entre futuras funcionalidades.
                 \\\\
-                Cabe recalcar que esta no es una descripción final del sistema, esta está sujeta a cambios con base a las necesidades del cliente. 
+                Nota: La descripción actual del proyecto es con base en la información que hasta el momento se tiene acerca del proyecto.
+            }
+        }
     }
-    
     \newpage
 	\pagestyle{plain}
 	{
 		\par\vspace{0cm}
 		{
 			\begin{center}
-
 					\Huge\textbf
 					{
 						Requerimientos del proyecto
 					}
 			\end{center}
 		}
+		\par\vspace{0cm}
+		{
+			\normalsize\textbf
+			{
                 \justify
-                Nota: Los siguientes requirimientos están sujetos a cambios, por lo cual no se deberán tomar como requerimientos finales.
-                \\\\
                 \begin{itemize}
                     \item Requerimientos funcionales
                     \begin{enumerate}
-                        \item Cada usuario podrá iniciar y cerrar sesión en el sistema
-						\item El usuario administrador podrá registrar otros usuarios
-						\item El usuario administrador podrá dar de baja a otro usuarios
-						\item El usuario administrador podrá modificar los datos de otros usuarios
-						\item El usuario recepcionista podrá agendar citas para pacientes
-						\item El usuario recepcionista po
-						\item El paciente podrá consultar las fechas de sus citas a través de su cuenta
-						\item El sistema permitirá al médico titular generar recetas médicas
-						\item El médico titular podrá generar o hacer cambios al expediente clínico de pacientes
-						\item Los médicos titulares y auxiliares podrán consultar expedientes clínicos de sus pacientes
-						\item El médico titular podrá consultar el expediente clínico de los pacientes de otros médicos.
-						\item El paciente podrá consultar sus expediente clínico a través de su cuenta
-						\item El médico titular podrá habilitar los expedientes clínicos para su consulta por parte del usuario
-						\item El usuario administrador podrá generar de reportes estadísticos
-						\item El sistema contará con manejo de almacén de farmacia
-						\item Los médicos podrán consultar la disponibilidad de medicamentos en farmacia
-						\item El encargado de farmacia podrá consultar la disponibilidad de medicamentos
-						\item El sistema generará una advertencia para los usuarios encargados de farmacia cuando un medicamento esté pronto a caducar
-						\item Los médicos podrían generar recetas físicas o electrónicas
-						\item Cada consulta se llevará un registro de el personal que atendió al paciente
-						\item El sistema permitirá agendar citas a usuarios sin registro
-						\item El sistema enviará correos electrónicos de verificación, mediante tokens, para las citas
-						\item El usuario recepcionista podrá consultar la agenda de cada médico titular
-						\item El usuario recepcionista podrá ver las citas de todos los usuario
-						\item El usuario recepcionista podrá realizar cobros de consultas
-						\item El encargado de farmacia podrá realizar cobros por medicamentos
-						\item El encargado de farmacia podrá modificar la existencia de medicamentos en inventario
+                        \item El sistema permitirá a cada usuario iniciar y cerrar sesión en el sistema.
+                        \item El sistema permitirá al usuario administrador registrar otros usuarios.
+                        \item El sistema permitirá al usuario administrador dar de baja a otros usuarios.
+                        \item El sistema permitirá al usuario administrador modificar la información de otros usuarios.
+                        \item El sistema permitirá al usuario recepcionista agendar citas para pacientes.
+                        \item El sistema permitirá al paciente consultar las fechas de sus citas a través de su cuenta.
+                        \item El sistema permitirá al médico titular generar recetas médicas.
+                        \item El sistema permitirá al médico titular generar o hacer cambios al expediente clínico de pacientes.
+                        \item El sistema permitirá a los médicos titulares y auxiliares consultar expedientes clínicos de sus pacientes.
+                        \item El sistema permitirá al paciente consultar su expediente clínico a través de su cuenta.
+                        \item El sistema permitirá al médico titular habilitar los expedientes clínicos para su consulta por parte del usuario.
+                        \item El sistema permitirá al usuario administrador generar de reportes estadísticos.
+                        \item El sistema contará con manejo de almacén de farmacia.
+                        \item El sistema permitirá a los médicos consultar la disponibilidad de medicamentos en farmacia.
+                        \item El sistema permitirá al encargado de farmacia consultar la disponibilidad de medicamentos.
+                        \item El sistema generará una advertencia para los usuarios encargados de farmacia cuando un medicamento esté pronto a caducar o infringir las normas de COFEPRIS.
+                        \item El sistema permitirá a los médicos generar recetas físicas y electrónicas (Vistas en sistema o enviadas por correo electrónico).
+                        \item El sistema permitirá llevar un registro del personal que atendió al paciente para cada consulta que este tuvo.
+                        \item El sistema permitirá agendar citas a usuarios sin registro.
+                        \item \item Las citas solo podrán ser agendadas en el calendario en tiempos de 30 minutos durante el horario de atención.
+                        \item La duración de las citas de primera vez será de 1 hora.
+                        \item La duración de las citas  subsecuentes será de 30 minutos.
+                        \item Cuando se agenda una cita de primera vez en línea, el usuario no podrá escoger el médico que lo atenderá, solo el horario.
+                        \item Cuando se agenda una cita de primera vez ya sea de manera presencial o telefónica, ell usuario podrá elegir el médico y el horario de su cita.
+                        \item El sistema enviará correos electrónicos para confirmación de las citas.
+                        \item El sistema permitirá al usuario recepcionista consultar la agenda de cada médico titular.
+                        \item El sistema permitirá al usuario recepcionista ver las citas de todos los usuarios.
+                        \item El sistema permitirá al usuario recepcionista realizar cobros de consultas.
+                        \item El sistema permitirá al encargado de farmacia realizar cobros por medicamentos.
+                        \item El sistema permitirá al encargado de farmacia modificar la existencia de medicamentos en inventario.
                     \end{enumerate}
                     \item Requerimientos no funcionales
                     \begin{enumerate}
-                        \item Los expedientes clínicos serán generados con base en la norma NOM-024-SSA3-2010
-						\item El paciente podrá ver su expediente médico únicamente si ha pedido autorización
-						\item Las caducidades de medicamentos serán tratadas conforme a las normas de la COFEPRIS
-						\item El surtido de recetas por parte de la farmacia se debe apegar al Artículo 226 de la Ley General de Salud.
-						\item Las citas solo podrán ser agendadas en el calendario en tiempos de 30 minutos durante el horario de atención.
-						\item La duración de las citas de primera vez será de 1 hora.
-						\item La duración de las citas  subsecuentes será de 30 minutos.
-						\item En una cita de primera vez, el usuario no podrá escoger el médico que lo atenderá, solo el horario
-						\item Se debe de cumplir con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares para los datos almacenados de los usuarios
-						\item La clínica atenderá en un horario de Lunes a Viernes de 10:00 a 20:00 horas
+                        \item Los expedientes clínicos serán generados con base en la norma NOM-024-SSA3-2010.
+                        \item El paciente podrá ver su expediente médico únicamente si ha pedido autorización.
+                        \item Las caducidades de medicamentos serán tratadas conforme a las normas de la COFEPRIS.
+                        \item El surtido de recetas por parte de la farmacia se debe apegar al Artículo 226 de la Ley General de Salud.
+                        \item Se debe de cumplir con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares para los datos almacenados de los usuarios.
+                        \item La clínica atenderá en un horario de Lunes a Viernes de 10:00 a 20:00 horas.
+                        \item El sistema no permitirá agendar cita con un médico en específico en su horario de comida.
+                        \item El sistema será completamente funcional en el navegador Google Chrome en la versión Versión 86.0.4240.183 (Build oficial) o posterior.
                     \end{enumerate}
             \end{itemize}
-    }
+            Nota: Los siguientes requirimientos están sujetos a cambios, por lo cual no se deberán tomar como requerimientos finales.
+			}
+		}
+	}
     \newpage
 	\pagestyle{plain}
 	{
 		\par\vspace{0cm}
 		{
 			\begin{center}
-
 					\Huge\textbf
 					{
 						Casos de uso
 					}
 			\end{center}
-		}
+        }
+        \par\vspace{0cm}
+		{
+			\normalsize\textbf
+			{
                 \justify
                 Casos de uso por modulo del sistema
                 \newline
@@ -349,24 +355,18 @@
                     \item Cerrar sesión
                     \item Cambiar contraseña
                     \item Ver paciente
-                    
                 \end{itemize}
-
                 Modulo de inventario
                 \begin{itemize}
                     \item Buscar medicamento
-                    
                     \item Agregar medicamento
-                    
                     \item Dar de baja medicamento
-                    
                     \item Ver inventario
-                    
                     \item Notificar stock
-                    
                 \end{itemize}
+            }
+        }
     }
-
     \newpage
 	\pagestyle{plain}
 	{
@@ -484,9 +484,6 @@
             \includegraphics [scale=0.5]{notStock}
             \caption{Diagrama de notificación de stock}
         \end{figure}
-        
-
-
 			\vfill
 	}
 \end{document}
