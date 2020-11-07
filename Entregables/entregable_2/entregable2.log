@@ -1,0 +1,533 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.4)  7 NOV 2020 14:24
+entering extended mode
+**"e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/entregable2.tex"
+("e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/entregable2.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> ("E:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("E:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("E:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) ("E:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty"
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ ("E:\Program Files\MiKTeX\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+) ("E:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("E:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) ("E:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("E:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) ("E:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("E:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("E:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("E:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) ("E:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count175
+\mult@box=\box45
+\multicol@leftmargin=\dimen137
+\c@unbalance=\count176
+\c@collectmore=\count177
+\doublecol@number=\count178
+\multicoltolerance=\count179
+\multicolpretolerance=\count180
+\full@width=\dimen138
+\page@free=\dimen139
+\premulticols=\dimen140
+\postmulticols=\dimen141
+\multicolsep=\skip63
+\multicolbaselineskip=\skip64
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen142
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count181
+\c@columnbadness=\count182
+\c@finalcolumnbadness=\count183
+\last@try=\dimen143
+\multicolovershoot=\dimen144
+\multicolundershoot=\dimen145
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count184
+) ("E:\Program Files\MiKTeX\tex/latex/changepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count185
+\cp@tempcnt=\count186
+) ("E:\Program Files\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count187
+\float@exts=\toks19
+\float@box=\box91
+\@float@everytoks=\toks20
+\@floatcapt=\box92
+) ("E:\Program Files\MiKTeX\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) ("E:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) ("E:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("E:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("E:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks21
+ ("E:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg")) ("E:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+ ("E:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen154
+\l@babelnohyphens=\language79
+ ("E:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("E:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("E:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks22
+\es@quotdepth=\count193
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("E:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box93
+) ("e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Tareas\Entregable 2\entregable2.aux")
+\openout1 = `entregable2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 22.
+ ("E:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen155
+\scratchbox=\box94
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen156
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks24
+) ("E:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ ("E:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) ("E:\Program Files\MiKTeX\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ ("E:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) ("E:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ ("E:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) ("E:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) ("E:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=556.47656pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+("E:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+ ("E:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<ipn.png, id=1, 131.74219pt x 225.84375pt>
+File: ipn.png Graphic file (type png)
+<use ipn.png>
+Package pdftex.def Info: ipn.png  used on input line 34.
+(pdftex.def)             Requested size: 42.679pt x 71.13081pt.
+<escom.png, id=3, 481.8pt x 367.3725pt>
+File: escom.png Graphic file (type png)
+<use escom.png>
+Package pdftex.def Info: escom.png  used on input line 35.
+(pdftex.def)             Requested size: 71.12737pt x 56.9029pt.
+
+Overfull \hbox (41.6248pt too wide) in paragraph at lines 29--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
+
+ []
+
+[1
+
+{C:/Users/Default.DESKTOP-JE1Q995/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/ipn.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/escom.png>] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 143--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--147
+
+ []
+
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--260
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
+
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 337--341
+
+ []
+
+[8]
+<images/gestionUsuarios.png, id=36, 754.31813pt x 560.0925pt>
+File: images/gestionUsuarios.png Graphic file (type png)
+<use images/gestionUsuarios.png>
+Package pdftex.def Info: images/gestionUsuarios.png  used on input line 385.
+(pdftex.def)             Requested size: 377.15814pt x 280.04556pt.
+<images/alta_usuarios.jpg, id=37, 862.72313pt x 505.89pt>
+File: images/alta_usuarios.jpg Graphic file (type jpg)
+<use images/alta_usuarios.jpg>
+Package pdftex.def Info: images/alta_usuarios.jpg  used on input line 390.
+(pdftex.def)             Requested size: 301.95761pt x 177.06415pt.
+<images/baja_usuarios.jpg, id=38, 1134.2375pt x 805.0075pt>
+File: images/baja_usuarios.jpg Graphic file (type jpg)
+<use images/baja_usuarios.jpg>
+Package pdftex.def Info: images/baja_usuarios.jpg  used on input line 395.
+(pdftex.def)             Requested size: 340.27388pt x 241.50412pt.
+ [9 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/gestionUsuarios.png>]
+<images/modificarInformacion.png, id=43, 691.83469pt x 245.41687pt>
+File: images/modificarInformacion.png Graphic file (type png)
+<use images/modificarInformacion.png>
+Package pdftex.def Info: images/modificarInformacion.png  used on input line 400.
+(pdftex.def)             Requested size: 415.104pt x 147.25125pt.
+<images/recuperarCuenta.png, id=44, 817.55438pt x 240.14719pt>
+File: images/recuperarCuenta.png Graphic file (type png)
+<use images/recuperarCuenta.png>
+Package pdftex.def Info: images/recuperarCuenta.png  used on input line 405.
+(pdftex.def)             Requested size: 408.7762pt x 120.07329pt.
+ [10 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/alta_usuarios.jpg> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/baja_usuarios.jpg>]
+<images/verUsuario.png, id=48, 628.59843pt x 539.76656pt>
+File: images/verUsuario.png Graphic file (type png)
+<use images/verUsuario.png>
+Package pdftex.def Info: images/verUsuario.png  used on input line 410.
+(pdftex.def)             Requested size: 188.58098pt x 161.93121pt.
+
+
+e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/entregable2.tex:415: LaTeX Error: File `iniciarSesion' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415 ...ncludegraphics [scale=0.3]{iniciarSesion}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<images/especificacionInicio.png, id=49, 448.67625pt x 351.56343pt>
+File: images/especificacionInicio.png Graphic file (type png)
+<use images/especificacionInicio.png>
+Package pdftex.def Info: images/especificacionInicio.png  used on input line 420.
+(pdftex.def)             Requested size: 403.8049pt x 316.40414pt.
+[11 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/modificarInformacion.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/recuperarCuenta.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/verUsuario.png>]
+<images/trayectorias.png, id=55, 442.65375pt x 490.83376pt>
+File: images/trayectorias.png Graphic file (type png)
+<use images/trayectorias.png>
+Package pdftex.def Info: images/trayectorias.png  used on input line 424.
+(pdftex.def)             Requested size: 398.38467pt x 441.74629pt.
+<images/verPerfil.png, id=56, 744.53156pt x 526.21594pt>
+File: images/verPerfil.png Graphic file (type png)
+<use images/verPerfil.png>
+Package pdftex.def Info: images/verPerfil.png  used on input line 428.
+(pdftex.def)             Requested size: 372.26486pt x 263.10733pt.
+ [12 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/especificacionInicio.png>]
+<images/cerrarSesion.jpg, id=61, 612.2875pt x 299.1175pt>
+File: images/cerrarSesion.jpg Graphic file (type jpg)
+<use images/cerrarSesion.jpg>
+Package pdftex.def Info: images/cerrarSesion.jpg  used on input line 433.
+(pdftex.def)             Requested size: 367.37534pt x 179.47188pt.
+ [13 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/trayectorias.png>]
+<images/cambiarContraseña.jpg, id=66, 540.0175pt x 323.2075pt>
+File: images/cambiarContraseña.jpg Graphic file (type jpg)
+<use images/cambiarContraseña.jpg>
+Package pdftex.def Info: images/cambiarContraseña.jpg  used on input line 438.
+(pdftex.def)             Requested size: 324.013pt x 193.926pt.
+<images/verPaciente.png, id=67, 772.38562pt x 511.15968pt>
+File: images/verPaciente.png Graphic file (type png)
+<use images/verPaciente.png>
+Package pdftex.def Info: images/verPaciente.png  used on input line 443.
+(pdftex.def)             Requested size: 270.339pt x 178.90855pt.
+ [14 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/verPerfil.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/cerrarSesion.jpg>] [15 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/cambiarContraseña.jpg> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/verPaciente.png>]
+<images/gestionInventario.png, id=74, 383.93437pt x 226.59656pt>
+File: images/gestionInventario.png Graphic file (type png)
+<use images/gestionInventario.png>
+Package pdftex.def Info: images/gestionInventario.png  used on input line 451.
+(pdftex.def)             Requested size: 307.1479pt x 181.27748pt.
+<images/buscarMedicamentos.png, id=75, 441.14813pt x 179.92218pt>
+File: images/buscarMedicamentos.png Graphic file (type png)
+<use images/buscarMedicamentos.png>
+Package pdftex.def Info: images/buscarMedicamentos.png  used on input line 456.
+(pdftex.def)             Requested size: 397.02965pt x 161.92845pt.
+<images/agregarMedicamento.png, id=76, 664.73344pt x 272.51813pt>
+File: images/agregarMedicamento.png Graphic file (type png)
+<use images/agregarMedicamento.png>
+Package pdftex.def Info: images/agregarMedicamento.png  used on input line 461.
+(pdftex.def)             Requested size: 332.3659pt x 136.25873pt.
+<images/bajaProducto.png, id=77, 770.12718pt x 531.48563pt>
+File: images/bajaProducto.png Graphic file (type png)
+<use images/bajaProducto.png>
+Package pdftex.def Info: images/bajaProducto.png  used on input line 466.
+(pdftex.def)             Requested size: 385.06264pt x 265.74216pt.
+<images/especificacionBajaProducto.png, id=78, 449.42906pt x 474.27188pt>
+File: images/especificacionBajaProducto.png Graphic file (type png)
+<use images/especificacionBajaProducto.png>
+Package pdftex.def Info: images/especificacionBajaProducto.png  used on input line 471.
+(pdftex.def)             Requested size: 404.4824pt x 426.84074pt.
+<images/trayectoriaBajaMedicamento.png, id=79, 453.94594pt x 560.8453pt>
+File: images/trayectoriaBajaMedicamento.png Graphic file (type png)
+<use images/trayectoriaBajaMedicamento.png>
+Package pdftex.def Info: images/trayectoriaBajaMedicamento.png  used on input line 475.
+(pdftex.def)             Requested size: 408.54756pt x 504.7561pt.
+<images/verInventario.png, id=80, 654.94687pt x 341.02406pt>
+File: images/verInventario.png Graphic file (type png)
+<use images/verInventario.png>
+Package pdftex.def Info: images/verInventario.png  used on input line 479.
+(pdftex.def)             Requested size: 327.47264pt x 170.51161pt.
+<images/notStock.png, id=81, 536.0025pt x 249.93375pt>
+File: images/notStock.png Graphic file (type png)
+<use images/notStock.png>
+Package pdftex.def Info: images/notStock.png  used on input line 484.
+(pdftex.def)             Requested size: 268.0006pt x 124.96657pt.
+ [16 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/gestionInventario.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/buscarMedicamentos.png>] [17 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/agregarMedicamento.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/bajaProducto.png>] [18 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/especificacionBajaProducto.png>] [19 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/trayectoriaBajaMedicamento.png>] [20 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/verInventario.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Tareas/Entregable 2/images/notStock.png>] ("e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Tareas\Entregable 2\entregable2.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4381 strings out of 480790
+ 63955 string characters out of 2907001
+ 320835 words of memory out of 3000000
+ 20306 multiletter control sequences out of 15000+200000
+ 539137 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,12n,35p,297b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Default.DESKTOP-JE1Q995\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Tareas\Entregable 2\entregable2.pdf" (20 pages, 1339491 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
