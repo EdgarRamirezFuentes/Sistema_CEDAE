@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Objetivo}{3}%
+\contentsline {section}{\numberline {2}Mockups}{3}%
+\contentsline {subsection}{\numberline {2.1}Mockups generales}{3}%
+\contentsline {subsection}{\numberline {2.2}Mockups de administrador}{4}%
+\contentsline {subsection}{\numberline {2.3}Mockups de encargado de farmacia}{7}%
+\contentsline {subsection}{\numberline {2.4}Mockups de médico}{9}%
+\contentsline {subsection}{\numberline {2.5}Mockups de paciente}{12}%
+\contentsline {subsection}{\numberline {2.6}Mockups de recepcionista}{14}%
