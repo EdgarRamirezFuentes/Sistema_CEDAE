@@ -696,7 +696,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 148.14990234375,
-									"top": 213,
+									"top": 149,
 									"width": 141.181640625,
 									"height": 13,
 									"text": "Ver usuarios registrados"
@@ -709,7 +709,7 @@
 									},
 									"font": "Arial;13;1",
 									"left": 93,
-									"top": 213,
+									"top": 149,
 									"width": 50.14990234375,
 									"height": 13,
 									"text": "package"
@@ -717,9 +717,9 @@
 							],
 							"font": "Arial;13;0",
 							"left": 88,
-							"top": 208,
+							"top": 144,
 							"width": 505,
-							"height": 233,
+							"height": 297,
 							"nameLabel": {
 								"$ref": "AAAAAAF11JXkpNwb6A8="
 							},
@@ -1020,6 +1020,104 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAF11JmdE93SznY="
 							}
+						},
+						{
+							"_type": "UMLUseCaseSubjectView",
+							"_id": "AAAAAAF19FFK00D6nmc=",
+							"_parent": {
+								"$ref": "AAAAAAF11JTpwNszNC0="
+							},
+							"model": {
+								"$ref": "AAAAAAF19FFK0kD4jVU="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAF19FFK00D7PAk=",
+									"_parent": {
+										"$ref": "AAAAAAF19FFK00D6nmc="
+									},
+									"model": {
+										"$ref": "AAAAAAF19FFK0kD4jVU="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19FFK00D8bnc=",
+											"_parent": {
+												"$ref": "AAAAAAF19FFK00D7PAk="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"top": -16,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19FFK00D9/Mw=",
+											"_parent": {
+												"$ref": "AAAAAAF19FFK00D7PAk="
+											},
+											"font": "Arial;13;1",
+											"left": 245,
+											"top": 207,
+											"width": 318,
+											"height": 13,
+											"text": "Ver usuarios registrados"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19FFK00D+y0g=",
+											"_parent": {
+												"$ref": "AAAAAAF19FFK00D7PAk="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"top": -16,
+											"width": 178.45166015625,
+											"height": 13,
+											"text": "(from Ver usuarios registrados)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19FFK00D/sy0=",
+											"_parent": {
+												"$ref": "AAAAAAF19FFK00D7PAk="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"top": -16,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 240,
+									"top": 200,
+									"width": 328,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAF19FFK00D8bnc="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAF19FFK00D9/Mw="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAF19FFK00D+y0g="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAF19FFK00D/sy0="
+									}
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 240,
+							"top": 200,
+							"width": 328,
+							"height": 208,
+							"nameCompartment": {
+								"$ref": "AAAAAAF19FFK00D7PAk="
+							}
 						}
 					]
 				},
@@ -1111,6 +1209,14 @@
 						"$ref": "AAAAAAF11JTpv9syxWA="
 					},
 					"name": "Buscar usuario"
+				},
+				{
+					"_type": "UMLUseCaseSubject",
+					"_id": "AAAAAAF19FFK0kD4jVU=",
+					"_parent": {
+						"$ref": "AAAAAAF11JTpv9syxWA="
+					},
+					"name": "Ver usuarios registrados"
 				}
 			]
 		}
