@@ -1,0 +1,24 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Objetivo}{3}%
+\contentsline {section}{\numberline {2}Organización del SCRUM Team}{3}%
+\contentsline {section}{\numberline {3}Acuerdos del SCRUM Team}{4}%
+\contentsline {section}{\numberline {4}Descripción del proyecto}{4}%
+\contentsline {section}{\numberline {5}Requerimientos del proyecto}{5}%
+\contentsline {subsection}{\numberline {5.1}Reglas del negocio}{7}%
+\contentsline {section}{\numberline {6}Casos de uso}{8}%
+\contentsline {subsection}{\numberline {6.1}Casos de uso por modulo del sistema}{8}%
+\contentsline {subsubsection}{\numberline {6.1.1}Modulo de gestión de usuarios}{8}%
+\contentsline {subsubsection}{\numberline {6.1.2}Modulo de inventario}{8}%
+\contentsline {subsubsection}{\numberline {6.1.3}Modulo de expediente}{9}%
+\contentsline {section}{\numberline {7}Diagramas y especificación de casos de uso}{9}%
+\contentsline {subsection}{\numberline {7.1}Diagramas del modulo de gestión de usuarios}{9}%
+\contentsline {subsection}{\numberline {7.2}Diagramas del modulo de gestión de inventario}{29}%
+\contentsline {subsection}{\numberline {7.3}Diagramas del modulo de expediente}{40}%
+\contentsline {section}{\numberline {8}Interfaces del sistema}{49}%
+\contentsline {subsection}{\numberline {8.1}Mockups generales}{49}%
+\contentsline {subsection}{\numberline {8.2}Mockups de administrador}{50}%
+\contentsline {subsection}{\numberline {8.3}Mockups de encargado de farmacia}{53}%
+\contentsline {subsection}{\numberline {8.4}Mockups de médico}{55}%
+\contentsline {subsection}{\numberline {8.5}Mockups de paciente}{58}%
+\contentsline {subsection}{\numberline {8.6}Mockups de recepcionista}{60}%
+\contentsline {section}{\numberline {9}Mensajes de error}{62}%
