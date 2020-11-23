@@ -510,8 +510,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -128,
-											"top": -96,
+											"left": -144,
+											"top": -64,
 											"height": 13
 										},
 										{
@@ -521,8 +521,8 @@
 												"$ref": "AAAAAAF11KTT8mm7wIw="
 											},
 											"font": "Arial;13;1",
-											"left": 315,
-											"top": 291.5,
+											"left": 307,
+											"top": 307.5,
 											"width": 173,
 											"height": 13,
 											"text": "Ver información de paciente"
@@ -535,8 +535,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -128,
-											"top": -96,
+											"left": -144,
+											"top": -64,
 											"width": 199.42431640625,
 											"height": 13,
 											"text": "(from Ver información de paciente)"
@@ -549,15 +549,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -128,
-											"top": -96,
+											"left": -144,
+											"top": -64,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 310,
-									"top": 284.5,
+									"left": 302,
+									"top": 300.5,
 									"width": 183.38623046875,
 									"height": 25,
 									"stereotypeLabel": {
@@ -584,8 +584,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -48,
+									"left": -72,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -600,8 +600,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -48,
+									"left": -72,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -616,8 +616,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -48,
+									"left": -72,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -632,8 +632,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -48,
+									"left": -72,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -648,16 +648,16 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -64,
-									"top": -48,
+									"left": -72,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 272,
-							"top": 280,
+							"left": 264,
+							"top": 296,
 							"width": 259,
 							"height": 35,
 							"nameCompartment": {
@@ -709,8 +709,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -80,
-											"top": 224,
+											"left": -96,
+											"top": 320,
 											"height": 13
 										},
 										{
@@ -720,8 +720,8 @@
 												"$ref": "AAAAAAF11KUDWmnrNls="
 											},
 											"font": "Arial;13;1",
-											"left": 356,
-											"top": 387.5,
+											"left": 348,
+											"top": 435.5,
 											"width": 100,
 											"height": 13,
 											"text": "Buscar paciente"
@@ -734,8 +734,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -80,
-											"top": 224,
+											"left": -96,
+											"top": 320,
 											"width": 199.42431640625,
 											"height": 13,
 											"text": "(from Ver información de paciente)"
@@ -748,15 +748,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -80,
-											"top": 224,
+											"left": -96,
+											"top": 320,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 351,
-									"top": 380.5,
+									"left": 343,
+									"top": 428.5,
 									"width": 110.4326171875,
 									"height": 25,
 									"stereotypeLabel": {
@@ -783,8 +783,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -40,
-									"top": 112,
+									"left": -48,
+									"top": 160,
 									"width": 10,
 									"height": 10
 								},
@@ -799,8 +799,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -40,
-									"top": 112,
+									"left": -48,
+									"top": 160,
 									"width": 10,
 									"height": 10
 								},
@@ -815,8 +815,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -40,
-									"top": 112,
+									"left": -48,
+									"top": 160,
 									"width": 10,
 									"height": 10
 								},
@@ -831,8 +831,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -40,
-									"top": 112,
+									"left": -48,
+									"top": 160,
 									"width": 10,
 									"height": 10
 								},
@@ -847,16 +847,16 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -40,
-									"top": 112,
+									"left": -48,
+									"top": 160,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 328,
-							"top": 376,
+							"left": 320,
+							"top": 424,
 							"width": 156,
 							"height": 35,
 							"nameCompartment": {
@@ -901,8 +901,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 222,
-									"top": 280,
+									"left": 219,
+									"top": 285,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -922,8 +922,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 222,
-									"top": 265,
+									"left": 220,
+									"top": 270,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -943,8 +943,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 223,
-									"top": 309,
+									"left": 218,
+									"top": 314,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -964,8 +964,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 200,
-									"top": 280,
+									"left": 201,
+									"top": 284,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -985,8 +985,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 202,
-									"top": 267,
+									"left": 204,
+									"top": 271,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1007,7 +1007,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 196,
-									"top": 308,
+									"top": 312,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1027,8 +1027,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 244,
-									"top": 279,
+									"left": 237,
+									"top": 286,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1047,8 +1047,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 242,
-									"top": 266,
+									"left": 235,
+									"top": 272,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1067,8 +1067,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 249,
-									"top": 306,
+									"left": 240,
+									"top": 313,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1113,7 +1113,7 @@
 								"$ref": "AAAAAAF11KRS2WlN0Zg="
 							},
 							"lineStyle": 1,
-							"points": "175:302;271:300",
+							"points": "175:305;263:308",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF11KU05mohvhc="
@@ -1170,8 +1170,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 417,
-									"top": 338,
+									"left": 409,
+									"top": 370,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1190,8 +1190,8 @@
 										"$ref": "AAAAAAF11KVEM2p+Ynk="
 									},
 									"font": "Arial;13;0",
-									"left": 405,
-									"top": 338,
+									"left": 397,
+									"top": 370,
 									"width": 55.65625,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1213,8 +1213,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 388,
-									"top": 339,
+									"left": 380,
+									"top": 371,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1232,7 +1232,7 @@
 								"$ref": "AAAAAAF11KTT8mm6vE0="
 							},
 							"lineStyle": 1,
-							"points": "402:315;404:375",
+							"points": "394:331;396:423",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF11KVEM2qBsSc="
@@ -1261,8 +1261,8 @@
 										"$ref": "AAAAAAF11KVi/Wq9Obo="
 									},
 									"font": "Arial;13;0",
-									"left": 108.14990234375,
-									"top": 237,
+									"left": 76.14990234375,
+									"top": 197,
 									"width": 162.154296875,
 									"height": 13,
 									"text": "Ver información de paciente"
@@ -1274,23 +1274,118 @@
 										"$ref": "AAAAAAF11KVi/Wq9Obo="
 									},
 									"font": "Arial;13;1",
-									"left": 53,
-									"top": 237,
+									"left": 21,
+									"top": 197,
 									"width": 50.14990234375,
 									"height": 13,
 									"text": "package"
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 48,
-							"top": 232,
-							"width": 536,
-							"height": 264,
+							"left": 16,
+							"top": 192,
+							"width": 601,
+							"height": 353,
 							"nameLabel": {
 								"$ref": "AAAAAAF11KVi/Wq+bvQ="
 							},
 							"frameTypeLabel": {
 								"$ref": "AAAAAAF11KVi/Wq//6w="
+							}
+						},
+						{
+							"_type": "UMLUseCaseSubjectView",
+							"_id": "AAAAAAF19F9Hu1TKOZo=",
+							"_parent": {
+								"$ref": "AAAAAAF11KQ52mlI26I="
+							},
+							"model": {
+								"$ref": "AAAAAAF19F9HulTIugk="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAF19F9Hu1TLGmU=",
+									"_parent": {
+										"$ref": "AAAAAAF19F9Hu1TKOZo="
+									},
+									"model": {
+										"$ref": "AAAAAAF19F9HulTIugk="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19F9Hu1TMIeM=",
+											"_parent": {
+												"$ref": "AAAAAAF19F9Hu1TLGmU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19F9Hu1TNeOY=",
+											"_parent": {
+												"$ref": "AAAAAAF19F9Hu1TLGmU="
+											},
+											"font": "Arial;13;1",
+											"left": 221,
+											"top": 239,
+											"width": 334,
+											"height": 13,
+											"text": "Ver información de paciente"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19F9Hu1TOARY=",
+											"_parent": {
+												"$ref": "AAAAAAF19F9Hu1TLGmU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 199.42431640625,
+											"height": 13,
+											"text": "(from Ver información de paciente)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF19F9Hu1TPcb0=",
+											"_parent": {
+												"$ref": "AAAAAAF19F9Hu1TLGmU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 216,
+									"top": 232,
+									"width": 344,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAF19F9Hu1TMIeM="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAF19F9Hu1TNeOY="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAF19F9Hu1TOARY="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAF19F9Hu1TPcb0="
+									}
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 216,
+							"top": 232,
+							"width": 344,
+							"height": 248,
+							"nameCompartment": {
+								"$ref": "AAAAAAF19F9Hu1TLGmU="
 							}
 						}
 					]
@@ -1383,6 +1478,14 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "Buscar paciente"
+				},
+				{
+					"_type": "UMLUseCaseSubject",
+					"_id": "AAAAAAF19F9HulTIugk=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Ver información de paciente"
 				}
 			]
 		}
