@@ -1,0 +1,81 @@
+** iniciar sesion 
+    error en todas las vistas de perfil
+    debe ser:
+
+    IUA1: Perfil de administrador
+    IUF1: perfil de encargado de farmacia
+    IUP1: perfil paciente
+    IUM1: Medico (no espesifica si titular o auxiliar)
+    IUR1: perfil recepcionista
+
+** ver perfil 
+    bien
+
+** cerrar sesion 
+    bien
+
+** Cambiar contraseña 
+    bien
+
+** Registarar usuario
+   bien
+
+** Eliminar usuario
+    bien
+
+** modificar informacion 
+    bien
+
+** Ver usuarios registrados
+    bien
+
+** Ver paciente 
+    - checar que si se usara la misma pantalla para medico titular y auxiliar
+    - la pantalla se llama IUM3 Ver expedientes no IUM3 ver expediente de paciente
+
+** Buscar medicamento
+    -la pantalla se llama IUf3 Buscar Medicamentos no IUF3 Buscar Medicamento 
+    -El mensaje de error debe ser MSGIBP01 Medicamento no encontrado
+
+** Agregar Medicamento 
+    -la panatalla se llama IUF4 Agregar medicamentos no IUF4 Agregar medicamento
+    -Los mensajes deben ser:
+    MSGIBP02 Medicamento agregado correctamente.
+    MSGIBP03 Medicamento duplicado.
+    MSGIBP04 Formulario incompleto.
+
+** Eliminar medicamento 
+    -la pantalla IUIDO04 El Mensaje de Solicitud Envida aun no se agrega 
+    -las pantallas IUIBPXX aun no se crean y se deben autualizar los mensajes de error
+
+** Ver inventario
+    -La pantalla es IUF2 Inventario de medicamentos no IUF2 Ver inventario de medicamentos
+    -El mensaje de error debe ser MSGIBP01 Medicamento no encontrado
+
+** Notificar stock
+    -Este es el caso que se debe rehacer
+
+** Crear expediente
+    - La pantalla se llama IUM2 Modificar expedientes no IUM2 Llenar/Modificar expediente
+    (creo debe de hacerse otra pantalla para este caso)
+    - Actualizar los mensajes de error
+
+**Buscar expediente
+    - actualizar mensaje de error a : MSGEX09 Expediente no encontrado.
+
+** Modificar expediente
+    - La pantalla se llama IUM2 Modificar expedientes no IUM2 Llenar/Modificar expediente
+    -Actulizar mensajes de error
+
+** Ver expediente
+    -La pantalla se llama IUM3 Ver expedientes
+    -Actilizar mensajes de error
+
+** Eliminar expediente
+    -La pantalla se llama IUM3 Ver expedientes
+    -Actulizar mensajes
+
+** Agregar receta 
+    -Actualizar mensajes
+
+** 
