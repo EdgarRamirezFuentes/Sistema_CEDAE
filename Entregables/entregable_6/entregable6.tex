@@ -178,7 +178,7 @@
                 recetas médicas, entre otras futuras funcionalidades.
                 Además, se implementarán todos aquellos servicios y subservicios que la clínica CEDAE presta para así lograr satisfacer
                 las necesidades del cliente.
-                \\\\
+                \\
                 El sistema le permitirá al médico titular visualizar expedientes de sus pacientes, emitir recetas tanto físicas,
                 por correo electrónico o por la plataforma web, permitir el acceso a su receta médica de sus pacientes, entre otras futuras funcionalidades.
                 \\\\
@@ -254,8 +254,8 @@
 
     \section{Casos de uso}
         \justify
-            \subsection{Casos de uso por modulo del sistema}
-                \subsubsection{Modulo de gestión de usuarios}
+            \subsection{Casos de uso por módulo del sistema}
+                \subsubsection{Módulo de gestión de usuarios}
                     \begin{itemize}
                         \item CUGU1.1 Iniciar sesión 
                         \item CUGU1.2 Ver perfil
@@ -287,7 +287,7 @@
                     \end{itemize}
 
     \section{Diagramas y especificación de casos de uso}
-        \subsection{Diagramas del modulo de gestión de usuarios}
+        \subsection{Diagramas del módulo de gestión de usuarios}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.5]{casosUso/gestionUsuarios}
@@ -355,19 +355,19 @@
             \end{figure}
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.75]{specs/trayRecuperarContraseña}
+                \includegraphics [scale=0.65]{specs/trayRecuperarContraseña}
             \end{figure}
 
             \newpage
             CUGU1.5 Registrar usuario 
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.6]{casosUso/registrarUsuario}
+                \includegraphics [scale=0.4]{casosUso/registrarUsuario}
                 \caption{Diagrama de registro de usuario}
             \end{figure}
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.75]{specs/specRegistrarUsuario}
+                \includegraphics [scale=0.6]{specs/specRegistrarUsuario}
             \end{figure}
             \begin{figure}[H]
                 \centering
@@ -439,7 +439,7 @@
             \end{figure}
         
             \newpage
-        \subsection{Diagramas del modulo de gestión de inventario}
+        \subsection{Diagramas del módulo de gestión de inventario}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.8]{casosUso/gestionInventario}
@@ -450,7 +450,7 @@
             CUIBP1.1 Buscar medicamento 
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.5]{casosUso/buscarMedicamentos}
+                \includegraphics [scale=0.5]{casosUso/buscarMedicamento}
                 \caption{Diagrama de busqueda de medicamento}
             \end{figure}
             \begin{figure}[H]
@@ -527,7 +527,7 @@
             \end{figure}
 
         \newpage
-        \subsection{Diagramas del modulo de expediente}
+        \subsection{Diagramas del módulo de expediente}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.5]{casosUso/gestionExpediente}
@@ -539,7 +539,12 @@
             CUEX1.1 Crear expediente
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.8]{specs/specCrearExpediente}
+                \includegraphics [scale=0.6]{casosUso/crearExpediente}
+                \caption{Diagrama de crear expediente}
+            \end{figure}
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.7]{specs/specCrearExpediente}
             \end{figure}
             \begin{figure}[H]
                 \centering
@@ -547,7 +552,12 @@
             \end{figure}
 
             \newpage
-            CUEX1.2 Buscar expediente 
+            CUEX1.2 Buscar expediente
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.7]{casosUso/buscarExpediente}
+                \caption{Diagrama de buscar expediente}
+            \end{figure}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.8]{specs/specBuscarExpediente}
@@ -558,7 +568,12 @@
             \end{figure}
 
             \newpage
-            CUEX1.4 Modificar expediente 
+            CUEX1.4 Modificar expediente
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.5]{casosUso/modificarExpediente}
+                \caption{Diagrama de modificar expediente}
+            \end{figure}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.8]{specs/specModificarExpediente}
@@ -569,7 +584,12 @@
             \end{figure}
 
             \newpage
-            CUEX1.5 Ver expediente 
+            CUEX1.5 Ver expediente
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.7]{casosUso/verExpediente}
+                \caption{Diagrama de ver expediente}
+            \end{figure}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.8]{specs/specVerExpediente}
@@ -580,25 +600,35 @@
             \end{figure}
 
             \newpage
-            CUEX1.6 Eliminar expediente 
+            CUEX1.6 Eliminar expediente
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.7]{casosUso/eliminarExpediente}
+                \caption{Diagrama de eliminar expediente}
+            \end{figure}
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.8]{specs/specEliminarExpediente}
             \end{figure}
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.75]{specs/trayEliminarExpediente}
+                \includegraphics [scale=0.9]{specs/trayEliminarExpediente}
             \end{figure}
 
             \newpage
             CUEX1.7 Agregar receta
             \begin{figure}[H]
                 \centering
+                \includegraphics [scale=0.5]{casosUso/agregarReceta}
+                \caption{Diagrama de agregar receta}
+            \end{figure}
+            \begin{figure}[H]
+                \centering
                 \includegraphics [scale=0.8]{specs/specAgregarReceta}
             \end{figure}
             \begin{figure}[H]
                 \centering
-                \includegraphics [scale=0.7]{specs/trayAgregarReceta}
+                \includegraphics [scale=0.9]{specs/trayAgregarReceta}
             \end{figure}
 
 
@@ -775,6 +805,15 @@
         \newpage
         \section{Mensajes de error}
             \begin{itemize}
+                \item MSGGU01 Correo/contraseña incorrectos
+                \item MSGGU02 Sesión cerrada con éxito
+                \item MSGGU03 Sesión cerrada por inactividad
+                \item MSGGU04 Contraseña cambiada con éxito
+                \item MSGGU05 Correo electrónico no valido
+                \item MSGGU06 Enlace expirado
+                \item MSGGU07 Contraseña no coinciden
+                \item MSGGU08 Archivo invalido
+                \item MSGGU09 Confirmación de eliminación de usuario
                 \item MSGEX01 Registro completado.
                 \item MSGEX02 Expediente ya existente.
                 \item MSGEX03 Expediente no encontrado.
