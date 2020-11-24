@@ -217,8 +217,6 @@
                         \item El sistema permitirá llevar un registro del personal que atendió al paciente para cada consulta que este tuvo.
                         \item El sistema permitirá agendar citas a usuarios sin registro.
                         \item Las citas solo podrán ser agendadas en el calendario en tiempos de 30 minutos durante el horario de atención.
-                        \item La duración de las citas de primera vez será de 1 hora.
-                        \item La duración de las citas  subsecuentes será de 30 minutos.
                         \item Cuando se agenda una cita de primera vez en línea, el usuario no podrá escoger el médico que lo atenderá, solo el horario.
                         \item Cuando se agenda una cita de primera vez ya sea de manera presencial o telefónica, el usuario podrá elegir el médico y el horario de su cita.
                         \item El sistema enviará correos electrónicos para confirmación de las citas.
@@ -250,6 +248,8 @@
                 \item Se debe de cumplir con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares para los datos almacenados de los usuarios.
                 \item La clínica atenderá en un horario de Lunes a Viernes de 10:00 a 20:00 horas.
                 \item Los médicos tienen un horario fijo, en el cual se contemplan sus horas de comida.
+                \item La duración de las citas de primera vez será de 1 hora.
+                \item La duración de las citas  subsecuentes será de 30 minutos.
             \end{enumerate}
 
     \section{Casos de uso}
@@ -565,6 +565,22 @@
             \begin{figure}[H]
                 \centering
                 \includegraphics [scale=0.9]{specs/trayBuscarExpediente}
+            \end{figure}
+
+            \newpage
+            CUEX1.3 Añadir consulta
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.4]{casosUso/agregarConsulta}
+                \caption{Diagrama de añadir consulta}
+            \end{figure}
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.8]{specs/specAgregarConsulta}
+            \end{figure}
+            \begin{figure}[H]
+                \centering
+                \includegraphics [scale=0.9]{specs/trayAgregarConsulta}
             \end{figure}
 
             \newpage

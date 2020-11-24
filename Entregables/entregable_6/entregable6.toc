@@ -14,11 +14,11 @@
 \contentsline {subsection}{\numberline {7.1}Diagramas del módulo de gestión de usuarios}{9}%
 \contentsline {subsection}{\numberline {7.2}Diagramas del módulo de gestión de inventario}{28}%
 \contentsline {subsection}{\numberline {7.3}Diagramas del módulo de expediente}{39}%
-\contentsline {section}{\numberline {8}Interfaces del sistema}{52}%
-\contentsline {subsection}{\numberline {8.1}Mockups generales}{52}%
-\contentsline {subsection}{\numberline {8.2}Mockups de administrador}{53}%
-\contentsline {subsection}{\numberline {8.3}Mockups de encargado de farmacia}{56}%
-\contentsline {subsection}{\numberline {8.4}Mockups de médico}{58}%
-\contentsline {subsection}{\numberline {8.5}Mockups de paciente}{61}%
-\contentsline {subsection}{\numberline {8.6}Mockups de recepcionista}{63}%
-\contentsline {section}{\numberline {9}Mensajes de error}{65}%
+\contentsline {section}{\numberline {8}Interfaces del sistema}{54}%
+\contentsline {subsection}{\numberline {8.1}Mockups generales}{54}%
+\contentsline {subsection}{\numberline {8.2}Mockups de administrador}{55}%
+\contentsline {subsection}{\numberline {8.3}Mockups de encargado de farmacia}{58}%
+\contentsline {subsection}{\numberline {8.4}Mockups de médico}{60}%
+\contentsline {subsection}{\numberline {8.5}Mockups de paciente}{63}%
+\contentsline {subsection}{\numberline {8.6}Mockups de recepcionista}{65}%
+\contentsline {section}{\numberline {9}Mensajes de error}{67}%
