@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Clients</title>
+	<title>Nuevo expediente</title>
 	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/sweetalert2.css">
 	<link rel="stylesheet" href="css/material.min.css">
@@ -88,33 +88,22 @@
 	        </a>  
 	    </section>
 	</section>
-	<!-- pageContent -->
-	<section class="full-width pageContent">
-		<section class="full-width header-well">
-			<div class="full-width header-well-icon">
-				<i class="zmdi zmdi-accounts"></i>
-			</div>
-			<div class="full-width header-well-text">
-				<p class="text-condensedLight">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde aut nulla accusantium minus corporis accusamus fuga harum natus molestias necessitatibus.
-				</p>
-			</div>
 		</section>
 		<div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
 			<div class="mdl-tabs__tab-bar">
-				<a href="#tabNewClient" class="mdl-tabs__tab is-active">NEW</a>
-				<a href="#tabListClient" class="mdl-tabs__tab">LIST</a>
+				<a href="#tabNewClient" class="mdl-tabs__tab is-active">Nuevo expediente</a>
+				<a href="#tabListClient" class="mdl-tabs__tab">Lista expedientes</a>
 			</div>
 			<div class="mdl-tabs__panel is-active" id="tabNewClient">
 				<div class="mdl-grid">
 					<div class="mdl-cell mdl-cell--4-col-phone mdl-cell--8-col-tablet mdl-cell--8-col-desktop mdl-cell--2-offset-desktop">
 						<div class="full-width panel mdl-shadow--2dp">
 							<div class="full-width panel-tittle bg-primary text-center tittles">
-								Nuevo Expediente
+								Nuevo expediente
 							</div>
 							<div class="full-width panel-content">
 								<form>
-									<h5 class="text-condensedLight">Informacion del Expediente</h5>
+									<h5 class="text-condensedLight">Información del expediente</h5>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="number" pattern="-?[0-9]*(\.[0-9]+)?" id="DNIClient">
 										<label class="mdl-textfield__label" for="DNIClient">Alergias</label>
@@ -122,22 +111,22 @@
 									</div>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="NameClient">
-										<label class="mdl-textfield__label" for="NameClient">Antecedente Personal</label>
+										<label class="mdl-textfield__label" for="NameClient">Antecedente personal</label>
 										<span class="mdl-textfield__error">Invalid Antpers</span>
 									</div>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="LastNameClient">
-										<label class="mdl-textfield__label" for="LastNameClient">Antecedente Familiar</label>
+										<label class="mdl-textfield__label" for="LastNameClient">Antecedente familiar</label>
 										<span class="mdl-textfield__error">Invalid AntFam</span>
 									</div>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" id="addressClient1">
-										<label class="mdl-textfield__label" for="addressClient1">Padecimiento Actual</label>
+										<label class="mdl-textfield__label" for="addressClient1">Padecimiento actual</label>
 										<span class="mdl-textfield__error">Invalid PadeAct</span>
 									</div>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" id="addressClient2">
-										<label class="mdl-textfield__label" for="addressClient2">Esquema Corporal</label>
+										<label class="mdl-textfield__label" for="addressClient2">Esquema corporal</label>
 										<span class="mdl-textfield__error">Invalid EsquemCor</span>
 									</div>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
@@ -147,25 +136,25 @@
 									</div>
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="email" id="emailClient">
-										<label class="mdl-textfield__label" for="emailClient">Frecuencia Cardiaca</label>
+										<label class="mdl-textfield__label" for="emailClient">Frecuencia cardiaca</label>
 										<span class="mdl-textfield__error">Invalid frecc</span>
 									</div>
 
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="NameClient">
-										<label class="mdl-textfield__label" for="NameClient">Frecuencia Respiratoria</label>
+										<label class="mdl-textfield__label" for="NameClient">Frecuencia respiratoria</label>
 										<span class="mdl-textfield__error">Invalid frecr</span>
 									</div>
 
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="NameClient">
-										<label class="mdl-textfield__label" for="NameClient">Presion Arterial</label>
+										<label class="mdl-textfield__label" for="NameClient">Presión arterial</label>
 										<span class="mdl-textfield__error">Invalid PresArt</span>
 									</div>
 
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="NameClient">
-										<label class="mdl-textfield__label" for="NameClient">Oxigenacion</label>
+										<label class="mdl-textfield__label" for="NameClient">Oxigenación</label>
 										<span class="mdl-textfield__error">Invalid oxigen</span>
 									</div>
 
@@ -189,13 +178,13 @@
 
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="NameClient">
-										<label class="mdl-textfield__label" for="NameClient">Examen Fisico</label>
+										<label class="mdl-textfield__label" for="NameClient">Examen físico</label>
 										<span class="mdl-textfield__error">Invalid testfisic</span>
 									</div>
 
 									<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
 										<input class="mdl-textfield__input" type="text" pattern="-?[A-Za-záéíóúÁÉÍÓÚ ]*(\.[0-9]+)?" id="NameClient">
-										<label class="mdl-textfield__label" for="NameClient">Impresion Diagnostica</label>
+										<label class="mdl-textfield__label" for="NameClient">Impresión diagnóstica</label>
 										<span class="mdl-textfield__error">Invalid ImpresionDiag</span>
 									</div>
 
@@ -209,10 +198,11 @@
 
 
 									<p class="text-center">
+										
 										<button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored bg-primary" id="btn-addClient">
 											<i class="zmdi zmdi-plus"></i>
 										</button>
-										<div class="mdl-tooltip" for="btn-addClient">Add client</div>
+										<div class="mdl-tooltip" for="btn-addClient">Agregar</div>
 									</p>
 								</form>
 							</div>
@@ -225,7 +215,7 @@
 					<div class="mdl-cell mdl-cell--4-col-phone mdl-cell--8-col-tablet mdl-cell--8-col-desktop mdl-cell--2-offset-desktop">
 						<div class="full-width panel mdl-shadow--2dp">
 							<div class="full-width panel-tittle bg-success text-center tittles">
-								List Clients
+								Lista expedientes
 							</div>
 							<div class="full-width panel-content">
 								<form action="#">
