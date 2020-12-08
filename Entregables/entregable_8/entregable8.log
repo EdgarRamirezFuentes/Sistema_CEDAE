@@ -1,0 +1,974 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.4)  8 DEC 2020 03:59
+entering extended mode
+**"e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/entregable8.tex"
+("e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/entregable8.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> ("E:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("E:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("E:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) ("E:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty"
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ ("E:\Program Files\MiKTeX\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+) ("E:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("E:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) ("E:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("E:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) ("E:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("E:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("E:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("E:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) ("E:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count175
+\mult@box=\box45
+\multicol@leftmargin=\dimen137
+\c@unbalance=\count176
+\c@collectmore=\count177
+\doublecol@number=\count178
+\multicoltolerance=\count179
+\multicolpretolerance=\count180
+\full@width=\dimen138
+\page@free=\dimen139
+\premulticols=\dimen140
+\postmulticols=\dimen141
+\multicolsep=\skip63
+\multicolbaselineskip=\skip64
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen142
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count181
+\c@columnbadness=\count182
+\c@finalcolumnbadness=\count183
+\last@try=\dimen143
+\multicolovershoot=\dimen144
+\multicolundershoot=\dimen145
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count184
+) ("E:\Program Files\MiKTeX\tex/latex/changepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count185
+\cp@tempcnt=\count186
+) ("E:\Program Files\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count187
+\float@exts=\toks19
+\float@box=\box91
+\@float@everytoks=\toks20
+\@floatcapt=\box92
+) ("E:\Program Files\MiKTeX\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) ("E:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) ("E:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("E:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("E:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks21
+ ("E:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg")) ("E:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+ ("E:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen154
+\l@babelnohyphens=\language79
+ ("E:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("E:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("E:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks22
+\es@quotdepth=\count193
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("E:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box93
+) ("e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Proyecto\Sistema_CEDAE\Entregables\entregable_8\entregable8.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `entregable8.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 22.
+ ("E:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen155
+\scratchbox=\box94
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen156
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks24
+) ("E:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ ("E:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) ("E:\Program Files\MiKTeX\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ ("E:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) ("E:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ ("E:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) ("E:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) ("E:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=556.47656pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+("E:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+ ("E:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<ipn.png, id=1, 131.74219pt x 225.84375pt>
+File: ipn.png Graphic file (type png)
+<use ipn.png>
+Package pdftex.def Info: ipn.png  used on input line 34.
+(pdftex.def)             Requested size: 42.679pt x 71.13081pt.
+<escom.png, id=3, 481.8pt x 367.3725pt>
+File: escom.png Graphic file (type png)
+<use escom.png>
+Package pdftex.def Info: escom.png  used on input line 35.
+(pdftex.def)             Requested size: 71.12737pt x 56.9029pt.
+
+Overfull \hbox (41.6248pt too wide) in paragraph at lines 29--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
+
+ []
+
+[1
+
+{C:/Users/Default.DESKTOP-JE1Q995/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/ipn.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/escom.png>] ("e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Proyecto\Sistema_CEDAE\Entregables\entregable_8\entregable8.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [2
+
+])
+\tf@toc=\write3
+\openout3 = `entregable8.toc'.
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 176--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--194
+
+ []
+
+[5] [6] [7] [8] [9]
+<images/casosUso/gestionUsuarios.png, id=39, 680.5425pt x 471.26062pt>
+File: images/casosUso/gestionUsuarios.png Graphic file (type png)
+<use images/casosUso/gestionUsuarios.png>
+Package pdftex.def Info: images/casosUso/gestionUsuarios.png  used on input line 293.
+(pdftex.def)             Requested size: 340.27042pt x 235.62973pt.
+ [10 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/gestionUsuarios.png>]
+<images/casosUso/iniciarSesion.png, id=44, 416.30531pt x 453.19313pt>
+File: images/casosUso/iniciarSesion.png Graphic file (type png)
+<use images/casosUso/iniciarSesion.png>
+Package pdftex.def Info: images/casosUso/iniciarSesion.png  used on input line 301.
+(pdftex.def)             Requested size: 124.89255pt x 135.95898pt.
+<images/specs/specIniciarSesion.png, id=45, 447.92343pt x 351.56343pt>
+File: images/specs/specIniciarSesion.png Graphic file (type png)
+<use images/specs/specIniciarSesion.png>
+Package pdftex.def Info: images/specs/specIniciarSesion.png  used on input line 306.
+(pdftex.def)             Requested size: 403.12737pt x 316.40414pt.
+<images/specs/trayIniciarSesion.png, id=46, 443.40656pt x 552.56438pt>
+File: images/specs/trayIniciarSesion.png Graphic file (type png)
+<use images/specs/trayIniciarSesion.png>
+Package pdftex.def Info: images/specs/trayIniciarSesion.png  used on input line 310.
+(pdftex.def)             Requested size: 399.06221pt x 497.30333pt.
+ [11 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/iniciarSesion.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specIniciarSesion.png>] [12 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayIniciarSesion.png>]
+<images/casosUso/verPerfil.png, id=56, 405.01312pt x 276.28218pt>
+File: images/casosUso/verPerfil.png Graphic file (type png)
+<use images/casosUso/verPerfil.png>
+Package pdftex.def Info: images/casosUso/verPerfil.png  used on input line 317.
+(pdftex.def)             Requested size: 162.00237pt x 110.51091pt.
+<images/specs/specVerPerfil.png, id=57, 449.42906pt x 488.57532pt>
+File: images/specs/specVerPerfil.png Graphic file (type png)
+<use images/specs/specVerPerfil.png>
+Package pdftex.def Info: images/specs/specVerPerfil.png  used on input line 322.
+(pdftex.def)             Requested size: 314.59819pt x 342.0004pt.
+<images/specs/trayVerPerfil.png, id=58, 441.14813pt x 221.32687pt>
+File: images/specs/trayVerPerfil.png Graphic file (type png)
+<use images/specs/trayVerPerfil.png>
+Package pdftex.def Info: images/specs/trayVerPerfil.png  used on input line 326.
+(pdftex.def)             Requested size: 397.02965pt x 199.19232pt.
+ [13 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/verPerfil.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specVerPerfil.png>] [14 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayVerPerfil.png>]
+<images/casosUso/cerrarSesion.png, id=69, 436.63126pt x 303.38344pt>
+File: images/casosUso/cerrarSesion.png Graphic file (type png)
+<use images/casosUso/cerrarSesion.png>
+Package pdftex.def Info: images/casosUso/cerrarSesion.png  used on input line 333.
+(pdftex.def)             Requested size: 130.99039pt x 91.01573pt.
+<images/specs/specCerrarSesion.png, id=70, 434.37282pt x 388.45125pt>
+File: images/specs/specCerrarSesion.png Graphic file (type png)
+<use images/specs/specCerrarSesion.png>
+Package pdftex.def Info: images/specs/specCerrarSesion.png  used on input line 338.
+(pdftex.def)             Requested size: 369.21863pt x 330.1851pt.
+<images/specs/trayCerrarSesion.png, id=71, 437.38406pt x 360.59718pt>
+File: images/specs/trayCerrarSesion.png Graphic file (type png)
+<use images/specs/trayCerrarSesion.png>
+Package pdftex.def Info: images/specs/trayCerrarSesion.png  used on input line 342.
+(pdftex.def)             Requested size: 393.642pt x 324.53445pt.
+ [15 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/cerrarSesion.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specCerrarSesion.png>] [16 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayCerrarSesion.png>]
+<images/casosUso/recuperarContraseña.png, id=81, 414.04688pt x 242.40562pt>
+File: images/casosUso/recuperarContraseña.png Graphic file (type png)
+<use images/casosUso/recuperarContraseña.png>
+Package pdftex.def Info: images/casosUso/recuperarContraseña.png  used on input line 349.
+(pdftex.def)             Requested size: 124.21501pt x 72.72223pt.
+<images/specs/specRecuperarContraseña.png, id=82, 440.39531pt x 465.99094pt>
+File: images/specs/specRecuperarContraseña.png Graphic file (type png)
+<use images/specs/specRecuperarContraseña.png>
+Package pdftex.def Info: images/specs/specRecuperarContraseña.png  used on input line 354.
+(pdftex.def)             Requested size: 330.29567pt x 349.49234pt.
+<images/specs/trayRecuperarContraseña.png, id=83, 465.23813pt x 861.9703pt>
+File: images/specs/trayRecuperarContraseña.png Graphic file (type png)
+<use images/specs/trayRecuperarContraseña.png>
+Package pdftex.def Info: images/specs/trayRecuperarContraseña.png  used on input line 358.
+(pdftex.def)             Requested size: 302.4012pt x 560.27406pt.
+ [17 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/recuperarContraseña.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specRecuperarContraseña.png>]
+Overfull \vbox (3.7975pt too high) has occurred while \output is active []
+
+ [18 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayRecuperarContraseña.png>]
+<images/casosUso/registrarUsuario.png, id=92, 377.15906pt x 220.57407pt>
+File: images/casosUso/registrarUsuario.png Graphic file (type png)
+<use images/casosUso/registrarUsuario.png>
+Package pdftex.def Info: images/casosUso/registrarUsuario.png  used on input line 365.
+(pdftex.def)             Requested size: 150.86095pt x 88.22806pt.
+<images/specs/specRegistrarUsuario.png, id=93, 434.37282pt x 623.32875pt>
+File: images/specs/specRegistrarUsuario.png Graphic file (type png)
+<use images/specs/specRegistrarUsuario.png>
+Package pdftex.def Info: images/specs/specRegistrarUsuario.png  used on input line 370.
+(pdftex.def)             Requested size: 260.62569pt x 374.00014pt.
+<images/specs/trayRegistrarUsuario.png, id=94, 432.11438pt x 627.84563pt>
+File: images/specs/trayRegistrarUsuario.png Graphic file (type png)
+<use images/specs/trayRegistrarUsuario.png>
+Package pdftex.def Info: images/specs/trayRegistrarUsuario.png  used on input line 374.
+(pdftex.def)             Requested size: 367.29895pt x 533.6713pt.
+ [19 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/registrarUsuario.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specRegistrarUsuario.png>] [20 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayRegistrarUsuario.png>]
+<images/casosUso/eliminarUsuario.png, id=105, 365.11406pt x 214.55156pt>
+File: images/casosUso/eliminarUsuario.png Graphic file (type png)
+<use images/casosUso/eliminarUsuario.png>
+Package pdftex.def Info: images/casosUso/eliminarUsuario.png  used on input line 381.
+(pdftex.def)             Requested size: 182.55658pt x 107.27551pt.
+<images/specs/specEliminarUsuario.png, id=106, 436.63126pt x 445.665pt>
+File: images/specs/specEliminarUsuario.png Graphic file (type png)
+<use images/specs/specEliminarUsuario.png>
+Package pdftex.def Info: images/specs/specEliminarUsuario.png  used on input line 386.
+(pdftex.def)             Requested size: 349.30548pt x 356.53249pt.
+<images/specs/trayEliminarUsuario.png, id=107, 433.62pt x 599.99156pt>
+File: images/specs/trayEliminarUsuario.png Graphic file (type png)
+<use images/specs/trayEliminarUsuario.png>
+Package pdftex.def Info: images/specs/trayEliminarUsuario.png  used on input line 390.
+(pdftex.def)             Requested size: 390.2544pt x 539.98741pt.
+ [21 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/eliminarUsuario.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specEliminarUsuario.png>] [22 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayEliminarUsuario.png>]
+<images/casosUso/modificarInformacion.png, id=117, 341.02406pt x 170.13562pt>
+File: images/casosUso/modificarInformacion.png Graphic file (type png)
+<use images/casosUso/modificarInformacion.png>
+Package pdftex.def Info: images/casosUso/modificarInformacion.png  used on input line 397.
+(pdftex.def)             Requested size: 170.51161pt x 85.0676pt.
+<images/specs/specModificarInformacion.png, id=118, 435.87843pt x 474.27188pt>
+File: images/specs/specModificarInformacion.png Graphic file (type png)
+<use images/specs/specModificarInformacion.png>
+Package pdftex.def Info: images/specs/specModificarInformacion.png  used on input line 402.
+(pdftex.def)             Requested size: 326.90802pt x 355.70303pt.
+<images/specs/trayModificarInformacion.png, id=119, 451.6875pt x 746.79pt>
+File: images/specs/trayModificarInformacion.png Graphic file (type png)
+<use images/specs/trayModificarInformacion.png>
+Package pdftex.def Info: images/specs/trayModificarInformacion.png  used on input line 406.
+(pdftex.def)             Requested size: 338.76479pt x 560.09111pt.
+ [23 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/modificarInformacion.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specModificarInformacion.png>]
+Overfull \vbox (3.61455pt too high) has occurred while \output is active []
+
+ [24 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayModificarInformacion.png>]
+<images/casosUso/verUsuariosRegistrados.png, id=129, 358.33875pt x 166.37157pt>
+File: images/casosUso/verUsuariosRegistrados.png Graphic file (type png)
+<use images/casosUso/verUsuariosRegistrados.png>
+Package pdftex.def Info: images/casosUso/verUsuariosRegistrados.png  used on input line 413.
+(pdftex.def)             Requested size: 215.0049pt x 99.82368pt.
+<images/specs/specVerUsuario.png, id=130, 435.87843pt x 425.33907pt>
+File: images/specs/specVerUsuario.png Graphic file (type png)
+<use images/specs/specVerUsuario.png>
+Package pdftex.def Info: images/specs/specVerUsuario.png  used on input line 418.
+(pdftex.def)             Requested size: 348.70322pt x 340.2717pt.
+<images/specs/trayVerUsuario.png, id=131, 453.94594pt x 186.6975pt>
+File: images/specs/trayVerUsuario.png Graphic file (type png)
+<use images/specs/trayVerUsuario.png>
+Package pdftex.def Info: images/specs/trayVerUsuario.png  used on input line 422.
+(pdftex.def)             Requested size: 408.54756pt x 168.02618pt.
+ [25 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/verUsuariosRegistrados.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specVerUsuario.png>] [26 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayVerUsuario.png>]
+<images/casosUso/verInformacionPaciente.png, id=142, 371.88937pt x 194.97844pt>
+File: images/casosUso/verInformacionPaciente.png Graphic file (type png)
+<use images/casosUso/verInformacionPaciente.png>
+Package pdftex.def Info: images/casosUso/verInformacionPaciente.png  used on input line 429.
+(pdftex.def)             Requested size: 185.94423pt x 97.48897pt.
+<images/specs/specVerPaciente.png, id=143, 436.63126pt x 457.71pt>
+File: images/specs/specVerPaciente.png Graphic file (type png)
+<use images/specs/specVerPaciente.png>
+Package pdftex.def Info: images/specs/specVerPaciente.png  used on input line 434.
+(pdftex.def)             Requested size: 349.30548pt x 366.1685pt.
+<images/specs/trayVerPaciente.png, id=144, 450.9347pt x 326.72063pt>
+File: images/specs/trayVerPaciente.png Graphic file (type png)
+<use images/specs/trayVerPaciente.png>
+Package pdftex.def Info: images/specs/trayVerPaciente.png  used on input line 438.
+(pdftex.def)             Requested size: 405.83748pt x 294.04584pt.
+ [27 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/verInformacionPaciente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specVerPaciente.png>] [28 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayVerPaciente.png>]
+<images/casosUso/gestionInventario.png, id=154, 462.22687pt x 252.19218pt>
+File: images/casosUso/gestionInventario.png Graphic file (type png)
+<use images/casosUso/gestionInventario.png>
+Package pdftex.def Info: images/casosUso/gestionInventario.png  used on input line 445.
+(pdftex.def)             Requested size: 369.782pt x 201.75401pt.
+ [29 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/gestionInventario.png>]
+<images/casosUso/buscarMedicamento.png, id=159, 660.96938pt x 335.75438pt>
+File: images/casosUso/buscarMedicamento.png Graphic file (type png)
+<use images/casosUso/buscarMedicamento.png>
+Package pdftex.def Info: images/casosUso/buscarMedicamento.png  used on input line 453.
+(pdftex.def)             Requested size: 330.48387pt x 167.87677pt.
+<images/specs/specBuscarMedicamento.png, id=160, 450.9347pt x 380.92313pt>
+File: images/specs/specBuscarMedicamento.png Graphic file (type png)
+<use images/specs/specBuscarMedicamento.png>
+Package pdftex.def Info: images/specs/specBuscarMedicamento.png  used on input line 458.
+(pdftex.def)             Requested size: 360.74825pt x 304.73889pt.
+<images/specs/trayBuscarMedicamento.png, id=161, 438.8897pt x 246.9225pt>
+File: images/specs/trayBuscarMedicamento.png Graphic file (type png)
+<use images/specs/trayBuscarMedicamento.png>
+Package pdftex.def Info: images/specs/trayBuscarMedicamento.png  used on input line 462.
+(pdftex.def)             Requested size: 394.99707pt x 222.22818pt.
+ [30 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/buscarMedicamento.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specBuscarMedicamento.png>] [31 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayBuscarMedicamento.png>]
+<images/casosUso/agregarMedicamento.png, id=172, 445.665pt x 179.92218pt>
+File: images/casosUso/agregarMedicamento.png Graphic file (type png)
+<use images/casosUso/agregarMedicamento.png>
+Package pdftex.def Info: images/casosUso/agregarMedicamento.png  used on input line 469.
+(pdftex.def)             Requested size: 222.83195pt x 89.96086pt.
+<images/specs/specAgregarMedicamento.png, id=173, 449.42906pt x 377.91188pt>
+File: images/specs/specAgregarMedicamento.png Graphic file (type png)
+<use images/specs/specAgregarMedicamento.png>
+Package pdftex.def Info: images/specs/specAgregarMedicamento.png  used on input line 474.
+(pdftex.def)             Requested size: 337.07095pt x 283.43321pt.
+<images/specs/trayAgregarMedicamento.png, id=174, 450.9347pt x 359.84438pt>
+File: images/specs/trayAgregarMedicamento.png Graphic file (type png)
+<use images/specs/trayAgregarMedicamento.png>
+Package pdftex.def Info: images/specs/trayAgregarMedicamento.png  used on input line 478.
+(pdftex.def)             Requested size: 405.83748pt x 323.85693pt.
+ [32 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/agregarMedicamento.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specAgregarMedicamento.png>] [33 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayAgregarMedicamento.png>]
+<images/casosUso/eliminarMedicamento.png, id=184, 397.485pt x 147.55125pt>
+File: images/casosUso/eliminarMedicamento.png Graphic file (type png)
+<use images/casosUso/eliminarMedicamento.png>
+Package pdftex.def Info: images/casosUso/eliminarMedicamento.png  used on input line 485.
+(pdftex.def)             Requested size: 178.8666pt x 66.39743pt.
+<images/specs/specEliminarMedicamento.png, id=185, 451.6875pt x 556.32843pt>
+File: images/specs/specEliminarMedicamento.png Graphic file (type png)
+<use images/specs/specEliminarMedicamento.png>
+Package pdftex.def Info: images/specs/specEliminarMedicamento.png  used on input line 490.
+(pdftex.def)             Requested size: 316.17908pt x 389.42725pt.
+<images/specs/trayEliminarMedicamento.png, id=186, 458.46281pt x 600.74437pt>
+File: images/specs/trayEliminarMedicamento.png Graphic file (type png)
+<use images/specs/trayEliminarMedicamento.png>
+Package pdftex.def Info: images/specs/trayEliminarMedicamento.png  used on input line 494.
+(pdftex.def)             Requested size: 412.61272pt x 540.66495pt.
+ [34 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/eliminarMedicamento.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specEliminarMedicamento.png>] [35 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayEliminarMedicamento.png>]
+<images/casosUso/verInventario.png, id=196, 569.87906pt x 231.86626pt>
+File: images/casosUso/verInventario.png Graphic file (type png)
+<use images/casosUso/verInventario.png>
+Package pdftex.def Info: images/casosUso/verInventario.png  used on input line 501.
+(pdftex.def)             Requested size: 284.93883pt x 115.93283pt.
+<images/specs/specVerInventario.png, id=197, 451.6875pt x 249.18094pt>
+File: images/specs/specVerInventario.png Graphic file (type png)
+<use images/specs/specVerInventario.png>
+Package pdftex.def Info: images/specs/specVerInventario.png  used on input line 506.
+(pdftex.def)             Requested size: 361.35048pt x 199.345pt.
+<images/specs/trayVerInventario.png, id=198, 440.39531pt x 391.4625pt>
+File: images/specs/trayVerInventario.png Graphic file (type png)
+<use images/specs/trayVerInventario.png>
+Package pdftex.def Info: images/specs/trayVerInventario.png  used on input line 510.
+(pdftex.def)             Requested size: 396.35211pt x 352.31299pt.
+ [36 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/verInventario.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specVerInventario.png>] [37 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayVerInventario.png>]
+<images/casosUso/notificarStock.png, id=209, 344.03531pt x 139.27031pt>
+File: images/casosUso/notificarStock.png Graphic file (type png)
+<use images/casosUso/notificarStock.png>
+Package pdftex.def Info: images/casosUso/notificarStock.png  used on input line 517.
+(pdftex.def)             Requested size: 172.01723pt x 69.63498pt.
+<images/specs/specNotificarStock.png, id=210, 450.9347pt x 328.97906pt>
+File: images/specs/specNotificarStock.png Graphic file (type png)
+<use images/specs/specNotificarStock.png>
+Package pdftex.def Info: images/specs/specNotificarStock.png  used on input line 522.
+(pdftex.def)             Requested size: 360.74825pt x 263.1836pt.
+<images/specs/trayNotificarStock.png, id=211, 405.01312pt x 231.11343pt>
+File: images/specs/trayNotificarStock.png Graphic file (type png)
+<use images/specs/trayNotificarStock.png>
+Package pdftex.def Info: images/specs/trayNotificarStock.png  used on input line 526.
+(pdftex.def)             Requested size: 364.50842pt x 208.00017pt.
+ [38 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/notificarStock.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specNotificarStock.png>] [39 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayNotificarStock.png>]
+<images/casosUso/gestionExpediente.png, id=221, 779.16093pt x 323.70938pt>
+File: images/casosUso/gestionExpediente.png Graphic file (type png)
+<use images/casosUso/gestionExpediente.png>
+Package pdftex.def Info: images/casosUso/gestionExpediente.png  used on input line 533.
+(pdftex.def)             Requested size: 389.57951pt x 161.8543pt.
+ [40 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/gestionExpediente.png>]
+<images/casosUso/crearExpediente.png, id=226, 435.87843pt x 183.68625pt>
+File: images/casosUso/crearExpediente.png Graphic file (type png)
+<use images/casosUso/crearExpediente.png>
+Package pdftex.def Info: images/casosUso/crearExpediente.png  used on input line 542.
+(pdftex.def)             Requested size: 261.52907pt x 110.21259pt.
+<images/specs/specCrearExpediente.png, id=227, 450.18187pt x 511.15968pt>
+File: images/specs/specCrearExpediente.png Graphic file (type png)
+<use images/specs/specCrearExpediente.png>
+Package pdftex.def Info: images/specs/specCrearExpediente.png  used on input line 547.
+(pdftex.def)             Requested size: 315.12515pt x 357.80933pt.
+<images/specs/trayCrearExpediente.png, id=228, 454.69875pt x 438.13687pt>
+File: images/specs/trayCrearExpediente.png Graphic file (type png)
+<use images/specs/trayCrearExpediente.png>
+Package pdftex.def Info: images/specs/trayCrearExpediente.png  used on input line 551.
+(pdftex.def)             Requested size: 409.22508pt x 394.31953pt.
+ [41 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/crearExpediente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specCrearExpediente.png>] [42 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayCrearExpediente.png>]
+<images/casosUso/buscarExpediente.png, id=238, 365.86688pt x 186.6975pt>
+File: images/casosUso/buscarExpediente.png Graphic file (type png)
+<use images/casosUso/buscarExpediente.png>
+Package pdftex.def Info: images/casosUso/buscarExpediente.png  used on input line 558.
+(pdftex.def)             Requested size: 256.10506pt x 130.68735pt.
+<images/specs/specBuscarExpediente.png, id=239, 450.18187pt x 246.1697pt>
+File: images/specs/specBuscarExpediente.png Graphic file (type png)
+<use images/specs/specBuscarExpediente.png>
+Package pdftex.def Info: images/specs/specBuscarExpediente.png  used on input line 563.
+(pdftex.def)             Requested size: 360.14598pt x 196.936pt.
+<images/specs/trayBuscarExpediente.png, id=240, 456.95718pt x 298.11375pt>
+File: images/specs/trayBuscarExpediente.png Graphic file (type png)
+<use images/specs/trayBuscarExpediente.png>
+Package pdftex.def Info: images/specs/trayBuscarExpediente.png  used on input line 567.
+(pdftex.def)             Requested size: 411.25766pt x 268.2999pt.
+ [43 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/buscarExpediente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specBuscarExpediente.png>] [44 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayBuscarExpediente.png>]
+<images/casosUso/agregarConsulta.png, id=251, 599.23875pt x 359.84438pt>
+File: images/casosUso/agregarConsulta.png Graphic file (type png)
+<use images/casosUso/agregarConsulta.png>
+Package pdftex.def Info: images/casosUso/agregarConsulta.png  used on input line 574.
+(pdftex.def)             Requested size: 239.69125pt x 143.9352pt.
+<images/specs/specAgregarConsulta.png, id=252, 448.67625pt x 380.17032pt>
+File: images/specs/specAgregarConsulta.png Graphic file (type png)
+<use images/specs/specAgregarConsulta.png>
+Package pdftex.def Info: images/specs/specAgregarConsulta.png  used on input line 579.
+(pdftex.def)             Requested size: 358.94148pt x 304.13666pt.
+<images/specs/trayAgregarConsulta.png, id=253, 445.665pt x 357.58594pt>
+File: images/specs/trayAgregarConsulta.png Graphic file (type png)
+<use images/specs/trayAgregarConsulta.png>
+Package pdftex.def Info: images/specs/trayAgregarConsulta.png  used on input line 583.
+(pdftex.def)             Requested size: 401.09479pt x 321.82436pt.
+ [45 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/agregarConsulta.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specAgregarConsulta.png>] [46 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayAgregarConsulta.png>]
+<images/casosUso/modificarExpediente.png, id=262, 351.56343pt x 195.73125pt>
+File: images/casosUso/modificarExpediente.png Graphic file (type png)
+<use images/casosUso/modificarExpediente.png>
+Package pdftex.def Info: images/casosUso/modificarExpediente.png  used on input line 590.
+(pdftex.def)             Requested size: 175.78128pt x 97.86537pt.
+<images/specs/specModificarExpediente.png, id=263, 449.42906pt x 419.31656pt>
+File: images/specs/specModificarExpediente.png Graphic file (type png)
+<use images/specs/specModificarExpediente.png>
+Package pdftex.def Info: images/specs/specModificarExpediente.png  used on input line 595.
+(pdftex.def)             Requested size: 359.54372pt x 335.45369pt.
+<images/specs/trayModificarExpediente.png, id=264, 452.4403pt x 558.58687pt>
+File: images/specs/trayModificarExpediente.png Graphic file (type png)
+<use images/specs/trayModificarExpediente.png>
+Package pdftex.def Info: images/specs/trayModificarExpediente.png  used on input line 599.
+(pdftex.def)             Requested size: 407.19252pt x 502.72354pt.
+ [47 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/modificarExpediente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specModificarExpediente.png>] [48 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayModificarExpediente.png>]
+<images/casosUso/verExpediente.png, id=274, 356.83313pt x 216.05719pt>
+File: images/casosUso/verExpediente.png Graphic file (type png)
+<use images/casosUso/verExpediente.png>
+Package pdftex.def Info: images/casosUso/verExpediente.png  used on input line 606.
+(pdftex.def)             Requested size: 249.78148pt x 151.23898pt.
+<images/specs/specVerExpediente.png, id=275, 448.67625pt x 246.1697pt>
+File: images/specs/specVerExpediente.png Graphic file (type png)
+<use images/specs/specVerExpediente.png>
+Package pdftex.def Info: images/specs/specVerExpediente.png  used on input line 611.
+(pdftex.def)             Requested size: 358.94148pt x 196.936pt.
+<images/specs/trayVerExpediente.png, id=276, 435.12563pt x 238.64156pt>
+File: images/specs/trayVerExpediente.png Graphic file (type png)
+<use images/specs/trayVerExpediente.png>
+Package pdftex.def Info: images/specs/trayVerExpediente.png  used on input line 615.
+(pdftex.def)             Requested size: 391.60944pt x 214.7754pt.
+ [49 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/verExpediente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specVerExpediente.png>] [50 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayVerExpediente.png>]
+<images/casosUso/eliminarExpediente.png, id=287, 329.73187pt x 213.79875pt>
+File: images/casosUso/eliminarExpediente.png Graphic file (type png)
+<use images/casosUso/eliminarExpediente.png>
+Package pdftex.def Info: images/casosUso/eliminarExpediente.png  used on input line 622.
+(pdftex.def)             Requested size: 230.81071pt x 149.6581pt.
+<images/specs/specEliminarExpediente.png, id=288, 450.18187pt x 274.02374pt>
+File: images/specs/specEliminarExpediente.png Graphic file (type png)
+<use images/specs/specEliminarExpediente.png>
+Package pdftex.def Info: images/specs/specEliminarExpediente.png  used on input line 627.
+(pdftex.def)             Requested size: 360.14598pt x 219.21928pt.
+<images/specs/trayEliminarExpediente.png, id=289, 456.95718pt x 376.40625pt>
+File: images/specs/trayEliminarExpediente.png Graphic file (type png)
+<use images/specs/trayEliminarExpediente.png>
+Package pdftex.def Info: images/specs/trayEliminarExpediente.png  used on input line 631.
+(pdftex.def)             Requested size: 411.25766pt x 338.76248pt.
+ [51 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/eliminarExpediente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specEliminarExpediente.png>] [52 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayEliminarExpediente.png>]
+<images/casosUso/agregarReceta.png, id=299, 508.14844pt x 188.95593pt>
+File: images/casosUso/agregarReceta.png Graphic file (type png)
+<use images/casosUso/agregarReceta.png>
+Package pdftex.def Info: images/casosUso/agregarReceta.png  used on input line 638.
+(pdftex.def)             Requested size: 254.0736pt x 94.47772pt.
+<images/specs/specAgregarReceta.png, id=300, 449.42906pt x 274.77657pt>
+File: images/specs/specAgregarReceta.png Graphic file (type png)
+<use images/specs/specAgregarReceta.png>
+Package pdftex.def Info: images/specs/specAgregarReceta.png  used on input line 643.
+(pdftex.def)             Requested size: 359.54372pt x 219.82153pt.
+<images/specs/trayAgregarReceta.png, id=301, 444.15938pt x 539.76656pt>
+File: images/specs/trayAgregarReceta.png Graphic file (type png)
+<use images/specs/trayAgregarReceta.png>
+Package pdftex.def Info: images/specs/trayAgregarReceta.png  used on input line 647.
+(pdftex.def)             Requested size: 399.73973pt x 485.78542pt.
+ [53 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/casosUso/agregarReceta.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/specAgregarReceta.png>] [54 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/specs/trayAgregarReceta.png>]
+<images/interfaces/gen_index.png, id=311, 1927.2pt x 1084.05pt>
+File: images/interfaces/gen_index.png Graphic file (type png)
+<use images/interfaces/gen_index.png>
+Package pdftex.def Info: images/interfaces/gen_index.png  used on input line 657.
+(pdftex.def)             Requested size: 289.06754pt x 162.60048pt.
+<images/interfaces/gen_login.png, id=312, 1927.2pt x 1084.05pt>
+File: images/interfaces/gen_login.png Graphic file (type png)
+<use images/interfaces/gen_login.png>
+Package pdftex.def Info: images/interfaces/gen_login.png  used on input line 663.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/gen_recovery.png, id=313, 1927.2pt x 1084.05pt>
+File: images/interfaces/gen_recovery.png Graphic file (type png)
+<use images/interfaces/gen_recovery.png>
+Package pdftex.def Info: images/interfaces/gen_recovery.png  used on input line 669.
+(pdftex.def)             Requested size: 308.3583pt x 173.45154pt.
+ [55 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/gen_index.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/gen_login.png>]
+<images/interfaces/adm_perfil.png, id=320, 1927.2pt x 1084.05pt>
+File: images/interfaces/adm_perfil.png Graphic file (type png)
+<use images/interfaces/adm_perfil.png>
+Package pdftex.def Info: images/interfaces/adm_perfil.png  used on input line 677.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/adm_reg_usuario.png, id=321, 1927.2pt x 1084.05pt>
+File: images/interfaces/adm_reg_usuario.png Graphic file (type png)
+<use images/interfaces/adm_reg_usuario.png>
+Package pdftex.def Info: images/interfaces/adm_reg_usuario.png  used on input line 683.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [56 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/gen_recovery.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/adm_perfil.png>]
+<images/interfaces/adm_baja_usuario.png, id=327, 1927.2pt x 1084.05pt>
+File: images/interfaces/adm_baja_usuario.png Graphic file (type png)
+<use images/interfaces/adm_baja_usuario.png>
+Package pdftex.def Info: images/interfaces/adm_baja_usuario.png  used on input line 689.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/adm_mod_info.png, id=328, 1927.2pt x 1084.05pt>
+File: images/interfaces/adm_mod_info.png Graphic file (type png)
+<use images/interfaces/adm_mod_info.png>
+Package pdftex.def Info: images/interfaces/adm_mod_info.png  used on input line 695.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [57 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/adm_reg_usuario.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/adm_baja_usuario.png>]
+<images/interfaces/adm_ver_usuario.png, id=334, 1927.2pt x 1084.05pt>
+File: images/interfaces/adm_ver_usuario.png Graphic file (type png)
+<use images/interfaces/adm_ver_usuario.png>
+Package pdftex.def Info: images/interfaces/adm_ver_usuario.png  used on input line 701.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/far_perfil.png, id=335, 1927.2pt x 1084.05pt>
+File: images/interfaces/far_perfil.png Graphic file (type png)
+<use images/interfaces/far_perfil.png>
+Package pdftex.def Info: images/interfaces/far_perfil.png  used on input line 709.
+(pdftex.def)             Requested size: 366.17181pt x 205.97163pt.
+ [58 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/adm_mod_info.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/adm_ver_usuario.png>]
+<images/interfaces/far_inv_medicamento.png, id=341, 1927.2pt x 1084.05pt>
+File: images/interfaces/far_inv_medicamento.png Graphic file (type png)
+<use images/interfaces/far_inv_medicamento.png>
+Package pdftex.def Info: images/interfaces/far_inv_medicamento.png  used on input line 715.
+(pdftex.def)             Requested size: 346.88104pt x 195.12057pt.
+<images/interfaces/far_bus_medicamento.png, id=342, 1927.2pt x 1084.05pt>
+File: images/interfaces/far_bus_medicamento.png Graphic file (type png)
+<use images/interfaces/far_bus_medicamento.png>
+Package pdftex.def Info: images/interfaces/far_bus_medicamento.png  used on input line 721.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [59 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/far_perfil.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/far_inv_medicamento.png>]
+<images/interfaces/far_add_medicamento.png, id=348, 1927.2pt x 1084.05pt>
+File: images/interfaces/far_add_medicamento.png Graphic file (type png)
+<use images/interfaces/far_add_medicamento.png>
+Package pdftex.def Info: images/interfaces/far_add_medicamento.png  used on input line 727.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/far_delete_medicamento.png, id=349, 1927.2pt x 1084.05pt>
+File: images/interfaces/far_delete_medicamento.png Graphic file (type png)
+<use images/interfaces/far_delete_medicamento.png>
+Package pdftex.def Info: images/interfaces/far_delete_medicamento.png  used on input line 733.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [60 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/far_bus_medicamento.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/far_add_medicamento.png>]
+<images/interfaces/med_perfil.png, id=355, 1927.2pt x 1084.05pt>
+File: images/interfaces/med_perfil.png Graphic file (type png)
+<use images/interfaces/med_perfil.png>
+Package pdftex.def Info: images/interfaces/med_perfil.png  used on input line 741.
+(pdftex.def)             Requested size: 346.88104pt x 195.12057pt.
+<images/interfaces/med_mod_expediente.png, id=356, 1927.2pt x 1084.05pt>
+File: images/interfaces/med_mod_expediente.png Graphic file (type png)
+<use images/interfaces/med_mod_expediente.png>
+Package pdftex.def Info: images/interfaces/med_mod_expediente.png  used on input line 747.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [61 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/far_delete_medicamento.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/med_perfil.png>]
+<images/interfaces/med_ver_expediente.png, id=363, 1927.2pt x 1084.05pt>
+File: images/interfaces/med_ver_expediente.png Graphic file (type png)
+<use images/interfaces/med_ver_expediente.png>
+Package pdftex.def Info: images/interfaces/med_ver_expediente.png  used on input line 753.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/med_ver_citas.png, id=364, 1927.2pt x 1084.05pt>
+File: images/interfaces/med_ver_citas.png Graphic file (type png)
+<use images/interfaces/med_ver_citas.png>
+Package pdftex.def Info: images/interfaces/med_ver_citas.png  used on input line 759.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [62 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/med_mod_expediente.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/med_ver_expediente.png>]
+<images/interfaces/med_crear_receta.png, id=370, 1927.2pt x 1084.05pt>
+File: images/interfaces/med_crear_receta.png Graphic file (type png)
+<use images/interfaces/med_crear_receta.png>
+Package pdftex.def Info: images/interfaces/med_crear_receta.png  used on input line 765.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/pac_perfil.png, id=371, 1927.2pt x 1084.05pt>
+File: images/interfaces/pac_perfil.png Graphic file (type png)
+<use images/interfaces/pac_perfil.png>
+Package pdftex.def Info: images/interfaces/pac_perfil.png  used on input line 773.
+(pdftex.def)             Requested size: 366.17181pt x 205.97163pt.
+ [63 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/med_ver_citas.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/med_crear_receta.png>]
+<images/interfaces/pac_cita_primera.png, id=377, 1927.2pt x 1156.32pt>
+File: images/interfaces/pac_cita_primera.png Graphic file (type png)
+<use images/interfaces/pac_cita_primera.png>
+Package pdftex.def Info: images/interfaces/pac_cita_primera.png  used on input line 779.
+(pdftex.def)             Requested size: 346.88104pt x 208.12862pt.
+<images/interfaces/pac_cita_no_primera.png, id=378, 1927.2pt x 1156.32pt>
+File: images/interfaces/pac_cita_no_primera.png Graphic file (type png)
+<use images/interfaces/pac_cita_no_primera.png>
+Package pdftex.def Info: images/interfaces/pac_cita_no_primera.png  used on input line 785.
+(pdftex.def)             Requested size: 346.88104pt x 208.12862pt.
+ [64 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/pac_perfil.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/pac_cita_primera.png>]
+<images/interfaces/pac_citas_agendadas.png, id=384, 1927.2pt x 1084.05pt>
+File: images/interfaces/pac_citas_agendadas.png Graphic file (type png)
+<use images/interfaces/pac_citas_agendadas.png>
+Package pdftex.def Info: images/interfaces/pac_citas_agendadas.png  used on input line 791.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<images/interfaces/rec_perfil.png, id=385, 1927.2pt x 1084.05pt>
+File: images/interfaces/rec_perfil.png Graphic file (type png)
+<use images/interfaces/rec_perfil.png>
+Package pdftex.def Info: images/interfaces/rec_perfil.png  used on input line 799.
+(pdftex.def)             Requested size: 366.17181pt x 205.97163pt.
+ [65 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/pac_cita_no_primera.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/pac_citas_agendadas.png>]
+<images/interfaces/rec_cobro.png, id=391, 1927.2pt x 1084.05pt>
+File: images/interfaces/rec_cobro.png Graphic file (type png)
+<use images/interfaces/rec_cobro.png>
+Package pdftex.def Info: images/interfaces/rec_cobro.png  used on input line 805.
+(pdftex.def)             Requested size: 366.17181pt x 205.97163pt.
+<images/interfaces/rec_agendar_cita.png, id=392, 1927.2pt x 1084.05pt>
+File: images/interfaces/rec_agendar_cita.png Graphic file (type png)
+<use images/interfaces/rec_agendar_cita.png>
+Package pdftex.def Info: images/interfaces/rec_agendar_cita.png  used on input line 811.
+(pdftex.def)             Requested size: 346.88104pt x 195.12057pt.
+ [66 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/rec_perfil.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/rec_cobro.png>]
+<images/interfaces/rec_modificar_cita.png, id=398, 1927.2pt x 1156.32pt>
+File: images/interfaces/rec_modificar_cita.png Graphic file (type png)
+<use images/interfaces/rec_modificar_cita.png>
+Package pdftex.def Info: images/interfaces/rec_modificar_cita.png  used on input line 817.
+(pdftex.def)             Requested size: 346.88104pt x 208.12862pt.
+ [67 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/rec_agendar_cita.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/interfaces/rec_modificar_cita.png>] [68] [69]
+<images/actividades/general.png, id=411, 359.84438pt x 701.62125pt>
+File: images/actividades/general.png Graphic file (type png)
+<use images/actividades/general.png>
+Package pdftex.def Info: images/actividades/general.png  used on input line 858.
+(pdftex.def)             Requested size: 215.90828pt x 420.97598pt.
+ [70 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/actividades/general.png>]
+<images/actividades/generalEspecifico4K.png, id=416, 3854.4pt x 2649.9pt>
+File: images/actividades/generalEspecifico4K.png Graphic file (type png)
+<use images/actividades/generalEspecifico4K.png>
+Package pdftex.def Info: images/actividades/generalEspecifico4K.png  used on input line 866.
+(pdftex.def)             Requested size: 385.46259pt x 265.00552pt.
+ [71 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/actividades/generalEspecifico4K.png>]
+<images/actividades/citaPrimeraVez.png, id=421, 663.98062pt x 546.54187pt>
+File: images/actividades/citaPrimeraVez.png Graphic file (type png)
+<use images/actividades/citaPrimeraVez.png>
+Package pdftex.def Info: images/actividades/citaPrimeraVez.png  used on input line 874.
+(pdftex.def)             Requested size: 464.78326pt x 382.57669pt.
+ [72 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/actividades/citaPrimeraVez.png>]
+<images/actividades/reagendarCita.png, id=426, 499.8675pt x 612.03656pt>
+File: images/actividades/reagendarCita.png Graphic file (type png)
+<use images/actividades/reagendarCita.png>
+Package pdftex.def Info: images/actividades/reagendarCita.png  used on input line 882.
+(pdftex.def)             Requested size: 349.90486pt x 428.42267pt.
+ [73 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/actividades/reagendarCita.png>]
+<images/actividades/pagarMedicamento.png, id=432, 596.98032pt x 539.01375pt>
+File: images/actividades/pagarMedicamento.png Graphic file (type png)
+<use images/actividades/pagarMedicamento.png>
+Package pdftex.def Info: images/actividades/pagarMedicamento.png  used on input line 890.
+(pdftex.def)             Requested size: 417.88336pt x 377.30704pt.
+ [74 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/actividades/pagarMedicamento.png>]
+<images/actividades/crearExpediente.png, id=437, 563.10374pt x 395.97937pt>
+File: images/actividades/crearExpediente.png Graphic file (type png)
+<use images/actividades/crearExpediente.png>
+Package pdftex.def Info: images/actividades/crearExpediente.png  used on input line 898.
+(pdftex.def)             Requested size: 394.16994pt x 277.18367pt.
+ [75 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/actividades/crearExpediente.png>]
+<images/clases/diagramaClases.jpg, id=442, 3196.94376pt x 2514.39375pt>
+File: images/clases/diagramaClases.jpg Graphic file (type jpg)
+<use images/clases/diagramaClases.jpg>
+Package pdftex.def Info: images/clases/diagramaClases.jpg  used on input line 908.
+(pdftex.def)             Requested size: 415.61728pt x 326.88266pt.
+ [76 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/clases/diagramaClases.jpg>]
+<images/gantt/frontNov.png, id=446, 770.88pt x 552.56438pt>
+File: images/gantt/frontNov.png Graphic file (type png)
+<use images/gantt/frontNov.png>
+Package pdftex.def Info: images/gantt/frontNov.png  used on input line 919.
+(pdftex.def)             Requested size: 462.53157pt x 331.54118pt.
+<images/gantt/frontDec.png, id=447, 770.88pt x 312.41719pt>
+File: images/gantt/frontDec.png Graphic file (type png)
+<use images/gantt/frontDec.png>
+Package pdftex.def Info: images/gantt/frontDec.png  used on input line 923.
+(pdftex.def)             Requested size: 462.53157pt x 187.45175pt.
+<images/gantt/frontEne.png, id=448, 770.88pt x 93.34875pt>
+File: images/gantt/frontEne.png Graphic file (type png)
+<use images/gantt/frontEne.png>
+Package pdftex.def Info: images/gantt/frontEne.png  used on input line 927.
+(pdftex.def)             Requested size: 462.53157pt x 56.00967pt.
+ [77 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/frontNov.png>] [78 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/frontDec.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/frontEne.png>]
+<images/gantt/backNov.png, id=458, 770.88pt x 438.13687pt>
+File: images/gantt/backNov.png Graphic file (type png)
+<use images/gantt/backNov.png>
+Package pdftex.def Info: images/gantt/backNov.png  used on input line 934.
+(pdftex.def)             Requested size: 462.53157pt x 262.88414pt.
+<images/gantt/backDec.png, id=459, 770.88pt x 204.765pt>
+File: images/gantt/backDec.png Graphic file (type png)
+<use images/gantt/backDec.png>
+Package pdftex.def Info: images/gantt/backDec.png  used on input line 938.
+(pdftex.def)             Requested size: 462.53157pt x 122.85992pt.
+ [79 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/backNov.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/backDec.png>]
+<images/gantt/anaNov.png, id=466, 770.88pt x 578.16pt>
+File: images/gantt/anaNov.png Graphic file (type png)
+<use images/gantt/anaNov.png>
+Package pdftex.def Info: images/gantt/anaNov.png  used on input line 945.
+(pdftex.def)             Requested size: 462.53157pt x 346.89867pt.
+<images/gantt/anaDec.png, id=467, 770.88pt x 234.8775pt>
+File: images/gantt/anaDec.png Graphic file (type png)
+<use images/gantt/anaDec.png>
+Package pdftex.def Info: images/gantt/anaDec.png  used on input line 949.
+(pdftex.def)             Requested size: 462.53157pt x 140.92758pt.
+ [80 <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/anaNov.png> <e:/Luis/OneDrive/Documentos/ESCOM/Septimo semestre/ADOO/Proyecto/Sistema_CEDAE/Entregables/entregable_8/images/gantt/anaDec.png>] ("e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Proyecto\Sistema_CEDAE\Entregables\entregable_8\entregable8.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 5076 strings out of 480790
+ 88434 string characters out of 2907001
+ 321836 words of memory out of 3000000
+ 20893 multiletter control sequences out of 15000+200000
+ 539444 words of font info for 50 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,12n,35p,325b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Default.DESKTOP-JE1Q995\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "e:/Luis\OneDrive\Documentos\ESCOM\Septimo semestre\ADOO\Proyecto\Sistema_CEDAE\Entregables\entregable_8\entregable8.pdf" (80 pages, 11640002 bytes).
+PDF statistics:
+ 491 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 541 words of extra memory for PDF output out of 10000 (max. 10000000)
+
