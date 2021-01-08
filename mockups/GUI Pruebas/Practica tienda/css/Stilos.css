@@ -1,0 +1,54 @@
+:root {
+ --primario: #003f5c;
+ --secundario: #ec9b3b;
+}
+
+.titulo span{
+    color:  #bb1963;
+}
+.nav-link{
+    color: #272121;
+}
+
+.navbar{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal{
+    background-image: url(../img/cremita.jpg);
+    height: 35rem;
+}
+
+.categorias h2{
+    font-size: 2.5rem;
+    color: #f7be16;
+}
+.categorias a{
+    font-weight: 400;
+    color: #272121;
+    text-decoration: none;
+}
+
+.nosotros .img-nosotros{
+     min-height: 30rem ;
+}
+
+.img-nosotros{
+    background-image: url(../img/CEDAE.png);
+    
+}
+
+.btn-success{
+    background-color: #f7be16!important;
+}
+
+.footer{
+    background-color: #e5e5e5;
+}
